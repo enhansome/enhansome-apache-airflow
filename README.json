@@ -1,0 +1,754 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Stable Celery Helm Chart",
+          "description": "Curated Helm Chart in the official stable chart repository.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2022-02-20T14:09:39Z",
+            "owner": "helm",
+            "repo": "charts",
+            "stars": 15411
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Puckel's Docker Image",
+          "description": "@Puckel_'s well-crafted Docker image has become the base for many Airflow installations. It is regularly updated and closely tracks the official Apache releases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-03-01T09:11:52Z",
+            "owner": "puckel",
+            "repo": "docker-airflow",
+            "stars": 3811
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kube-airflow",
+          "description": "This repository contains both an Airflow Docker image (that appears to have been based on Puckel's work) and Kubernetes service definition. mumoshu's repository has not been recently updated, but there are numerous forks that may be based on more recent releases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-07-19T17:22:00Z",
+            "owner": "mumoshu",
+            "repo": "kube-airflow",
+            "stars": 654
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Astronomer Platform",
+          "description": "Apache Airflow as a Service on Kubernetes. For more information visit https://www.astronomer.io.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T07:52:14Z",
+            "owner": "astronomer",
+            "repo": "astronomer",
+            "stars": 490
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aws-airflow-stack",
+          "description": "An AWS based Airflow cluster deployment with CeleryExecutor. Deploys after a few clicks with CloudFormation.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2021-10-10T21:09:41Z",
+            "owner": "villasv",
+            "repo": "aws-airflow-stack",
+            "stars": 378
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kubernetes Custom Operator for Deploying Airflow",
+          "description": "Kubernetes Custom controller (also called operator pattern) for deploying Airflow on Kubernetes.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2020-06-25T07:59:10Z",
+            "owner": "GoogleCloudPlatform",
+            "repo": "airflow-operator",
+            "stars": 297
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "airflow-pipeline",
+          "description": "Airflow Docker container that comes preconfigured for Spark and Hadoop. It can be docker pulled at .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-13T16:45:09Z",
+            "owner": "dsaidgovsg",
+            "repo": "airflow-pipeline",
+            "stars": 176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "airflow-on-kubernetes",
+          "description": "A guide on all relevant resources, scripts and projects that relate to running Airflow on Kubernetes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-07-03T11:29:16Z",
+            "owner": "rolanddb",
+            "repo": "airflow-on-kubernetes",
+            "stars": 173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "airflow-cookbook",
+          "description": "Chef cookbook for deploying Airflow.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2019-07-11T08:48:40Z",
+            "owner": "bahchis",
+            "repo": "airflow-cookbook",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "airflow-k8s-executor-on-GKE",
+          "description": "A detailed tutorial to get a scalable, low maintenance airflow kubernetes executor environment deployed on Google Kubernetes Engine with helm.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2020-05-25T10:22:48Z",
+            "owner": "EamonKeane",
+            "repo": "airflow-GKE-k8sExecutor-helm",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KubernetesExecutor Helm Chart",
+          "description": "A lean Helm Chart using the KubernetesExecutor for a more k8s native experience and complementary KubernetesExecutor Docker Image.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smarty",
+            "last_commit": "2019-08-13T05:33:45Z",
+            "owner": "tekn0ir",
+            "repo": "airflow-chart",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Airflow-Component",
+          "description": "Lightweight installer of federated Airflow-Airflow (RabbitMQ) reference architectrure on Compute node(s).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jinja",
+            "last_commit": "2021-09-09T12:30:44Z",
+            "owner": "noelmcloughlin",
+            "repo": "airflow-component",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Distribute & deploy Apache Airflow via Python PEX files",
+          "description": "Example repo with steps to bundle, distribute, & deploy Apache Airflow as PEX files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-02-04T06:47:20Z",
+            "owner": "msumit",
+            "repo": "airflow-pex",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Installing Airflow on IBM Cloud",
+          "description": "Quick and easy deployment on IBM Cloud with IBM Bitnami Charts",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-10-13T14:54:45Z",
+            "owner": "KissConsult",
+            "repo": "Apache-Airflow",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Airflow deployment solutions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Airflow Repository Template",
+          "description": "A boilerplate repository for developing locally with Airflow, with linting & tests for valid DAGs and plugins. Just clone and run to get started! Add some CI jobs to deploy your code and you're done.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-06-25T15:25:06Z",
+            "owner": "soggycactus",
+            "repo": "airflow-repo-template",
+            "stars": 257
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ETL with Apache Airflow for Data Analysis on Transaction Data",
+          "description": ". Kimaru Thagana covers a practical case of doing an ETL process using Apache Airflow using a dummy ecommerce store's transactional, user and product data. The data is served via a flask API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-06-12T19:04:21Z",
+            "owner": "KimaruThagna",
+            "repo": "ml-pipelines-airflow",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Introductions and tutorials"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "We're all using Airflow wrong and how to fix it",
+          "description": "Jessica Laughlin of Bluecore shares three engineering problems associated with the Airflow design and how to solve them by using the KubernetesPodOperator in two design patterns.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T08:21:14Z",
+            "owner": "apache",
+            "repo": "airflow",
+            "stars": 46460
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bare minimal Airflow on Kubernetes (Local, EKS, AKS)",
+          "description": "An article on deploying Airflow on local Kubernetes, AWS EKS and Azure AKS with bare minimal setup.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-03-04T10:39:47Z",
+            "owner": "stwind",
+            "repo": "airflow-on-kubernetes",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Data’s Inferno: 7 Circles of Data Testing Hell with Airflow",
+          "description": "The Wholesale Banking Advanced Analytics team at ING details how they torture test their Airflow DAGs before deployment.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Data Testing with Airflow repository",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-06-08T19:57:30Z",
+                "owner": "danielvdende",
+                "repo": "data-testing-with-airflow",
+                "stars": 203
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Best practices, lessons learned and cool use cases"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "dlt",
+          "description": "data load tool is an open-source Python library for building data pipelines with schema inference and incremental loading. Includes an Airflow helper to convert dlt pipelines into Airflow DAGs/TaskGroups.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T08:14:41Z",
+            "owner": "dlt-hub",
+            "repo": "dlt",
+            "stars": 5734
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ingestr",
+          "description": "CLI tool to copy data between any source and destination with a single command. Use with BashOperator to load data from 50+ sources (Postgres, MongoDB, Salesforce, etc.) into your warehouse.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T07:12:15Z",
+            "owner": "bruin-data",
+            "repo": "ingestr",
+            "stars": 3837
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "airflow-maintenance-dags",
+          "description": "Clairvoyant's repo of Airflow DAGs that operate on Airflow itself, clearing out various bits of the backing metadata store.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-18T05:33:47Z",
+            "owner": "teamclairvoyant",
+            "repo": "airflow-maintenance-dags",
+            "stars": 1771
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bruin",
+          "description": "Data ingestion and transformation layer with SQL and Python support. Ingests from 50+ sources (like Airbyte/Fivetran) and transforms (like dbt). Can be triggered from Airflow DAGs or run standalone. Includes built-in data quality checks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T08:11:35Z",
+            "owner": "bruin-data",
+            "repo": "bruin",
+            "stars": 1663
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dag-factory",
+          "description": "A library for dynamically generating Apache Airflow DAGs from YAML configuration files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T08:53:58Z",
+            "owner": "astronomer",
+            "repo": "dag-factory",
+            "stars": 1451
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "airflow-code-editor",
+          "description": "A plugin for Apache Airflow that allows you to edit DAGs in browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T16:08:26Z",
+            "owner": "andreax79",
+            "repo": "airflow-code-editor",
+            "stars": 466
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gusty",
+          "description": "Create a DAG using any number of YAML, Python, Jupyter Notebook, or R Markdown files that represent individual tasks in the DAG. gusty also configures dependencies, DAGs, and TaskGroups, features support for your local operators, and more. A fully containerized demo is available here.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T19:39:22Z",
+            "owner": "pipeline-tools",
+            "repo": "gusty",
+            "stars": 286
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Domino",
+          "description": "Domino is an open source Graphical User Interface platform for creating data and Machine Learning workflows (DAGs) with no-code, visually intuitive drag-and-drop actions. It is also a standard for publishing and sharing your Python code so it can be automatically used by anyone, directly in the GUI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-06T16:03:23Z",
+            "owner": "Tauffer-Consulting",
+            "repo": "domino",
+            "stars": 210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "whirl",
+          "description": "Fast iterative local development and testing of Apache Airflow workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-12T19:40:06Z",
+            "owner": "godatadriven",
+            "repo": "whirl",
+            "stars": 205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "afctl",
+          "description": "A CLI tool that includes everything required to create, manage and deploy airflow projects faster and smoother.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-09-16T18:15:44Z",
+            "owner": "qubole",
+            "repo": "afctl",
+            "stars": 130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pylint-Airflow",
+          "description": "A Pylint plugin for static code analysis on Airflow code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-10-15T21:09:44Z",
+            "owner": "BasPH",
+            "repo": "pylint-airflow",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Oozie to Airflow",
+          "description": "A tool to easily convert between Apache Oozie workflows and Apache Airflow workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-15T14:59:56Z",
+            "owner": "GoogleCloudPlatform",
+            "repo": "oozie-to-airflow",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fileflow",
+          "description": "Collection of modules to support large data transfers between Airflow operators through either local file system or S3. This addresses a gap where data is too large for XCOMs but too small or inconvenient for loading directly in the operator. Built by Industry Dive.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-10-19T01:30:48Z",
+            "owner": "industrydive",
+            "repo": "fileflow",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dag Dependencies viewer",
+          "description": "A plugin which creates a view to visualize dependencies between the Airflow DAGs",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2021-05-07T20:33:30Z",
+            "owner": "ms32035",
+            "repo": "airflow-dag-dependencies",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fairflow",
+          "description": "Library to abstract away Airflow's Operators with functional pieces that transform the data from one operator to another.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2017-07-04T14:25:26Z",
+            "owner": "michaelosthege",
+            "repo": "fairflow",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "airflow-config",
+          "description": "Pydantic / Hydra based configuration system for DAG and Task arguments",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T20:11:01Z",
+            "owner": "airflow-laminar",
+            "repo": "airflow-config",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "airflow-supervisor",
+          "description": "Easy-to-use supervisor integration for long running or \"always on\" DAGs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T22:16:48Z",
+            "owner": "airflow-laminar",
+            "repo": "airflow-supervisor",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AirFly",
+          "description": "Auto generate Airflow's dag.py on the fly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-10T18:06:47Z",
+            "owner": "ryanchao2012",
+            "repo": "airfly",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Airflow ECR Plugin",
+          "description": "Plugin to refresh AWS ECR login token at regular intervals. This is helpful where DockerOperator needs to pull images hosted on ECR.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-02-25T16:10:51Z",
+            "owner": "asandeep",
+            "repo": "airflow-ecr-plugin",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AirflowK8sDebugger",
+          "description": "A library for generate k8s pod yaml templates from an Airflow dag using the KubernetesPodOperator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-05-06T15:20:28Z",
+            "owner": "Javier162380",
+            "repo": "AirflowKuberentesDebugger",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Airflow Vars",
+          "description": "A CLI for variables management, created for CD-Pipelines in order to allow robust and safe variables management.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-09T18:12:45Z",
+            "owner": "omerzamir",
+            "repo": "airflow-vars",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DAG checks",
+          "description": "The dag-checks consist of checks that can help you in maintaining your Apache Airflow instance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-02-06T13:48:38Z",
+            "owner": "politools",
+            "repo": "dag-checks",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "airflow-priority",
+          "description": "Priority Tags (P1, P2, etc) for Airflow DAGs with automated alerting to Datadog, New Relic, Slack, Discord, and more",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T14:11:42Z",
+            "owner": "airflow-laminar",
+            "repo": "airflow-priority",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Airflow-Helper",
+          "description": "setting up Airflow Variables, Connections, and Pools from a YAML configuration file.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-01T01:48:47Z",
+            "owner": "xnuinside",
+            "repo": "airflow-helper",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Airflow Ditto",
+          "description": "An extensible framework to do transformations to an Airflow DAG and convert it into another DAG which is flow-isomorphic with the original DAG, to be able to run it on different environments (e.g. on different clouds, or even different container frameworks - Apache Spark on YARN vs Kubernetes). Comes with out-of-the-box support for EMR-to-HDInsight-DAG transforms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-07-10T11:45:01Z",
+            "owner": "angadsingh",
+            "repo": "airflow-ditto",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DEAfrica Airflow",
+          "description": "Airflow libraries used by Digital Earth Africa, an humanitarian effort to utilize satellite imagery of Africa.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-09-20T04:44:48Z",
+            "owner": "digitalearthafrica",
+            "repo": "deafrica-airflow",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "airflow-provider-shopsavvy",
+          "description": "Apache Airflow provider package for ShopSavvy with operators, hooks, and sensors for product price data ETL pipelines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-07T05:03:48Z",
+            "owner": "shopsavvy",
+            "repo": "airflow-provider-shopsavvy",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "airflow-provider-unirate",
+          "description": "Apache Airflow provider package for UniRateAPI with hooks, operators, and a rate-change sensor for real-time and historical currency exchange rates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-08T06:15:55Z",
+            "owner": "UniRate-API",
+            "repo": "airflow-provider-unirate",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Airflow DVC plugin",
+          "description": "Plugin for open-source version-control system for data science and Machine Learning pipelines - DVC.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-07-27T18:50:43Z",
+            "owner": "deepflare",
+            "repo": "airflow-dvc",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Libraries, Hooks, Utilities"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Google Cloud Platform Public Datasets Pipelines",
+          "description": "Cloud-native, data pipeline architecture for onboarding datasets to the Google Cloud Public Datasets Program.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-10T12:08:51Z",
+            "owner": "GoogleCloudPlatform",
+            "repo": "public-datasets-pipelines",
+            "stars": 179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "deploy-airflow-on-ecs-fargate",
+          "description": "Deploy to Amazon ECS Fargate. Demonstrates various features and configurations, such as autoscaling workers to zero, S3 remote logging and secret management.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2022-03-22T08:58:23Z",
+            "owner": "hankehly",
+            "repo": "deploy-airflow-on-ecs-fargate",
+            "stars": 44
+          }
+        }
+      ],
+      "title": "Sample projects"
+    },
+    {
+      "description": "To the extent possible under law, Jakob Homan has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T08:24:52.251Z",
+    "original_repository": "jghoman/awesome-apache-airflow",
+    "original_repository_sha": "65c8ff1627cc72b768a6657c6d94af53b3bb11ea",
+    "enhanced_repository": "enhansome/enhansome-apache-airflow",
+    "enhanced_repository_description": null,
+    "title": "Awesome Apache Airflow with stars"
+  }
+}
