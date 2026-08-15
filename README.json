@@ -53,7 +53,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T21:20:26Z",
+            "last_commit": "2026-08-14T22:07:57Z",
             "owner": "astronomer",
             "repo": "astronomer",
             "stars": 491
@@ -247,10 +247,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T07:47:42Z",
+            "last_commit": "2026-08-15T03:44:06Z",
             "owner": "apache",
             "repo": "airflow",
-            "stars": 46476
+            "stars": 46496
           }
         },
         {
@@ -302,10 +302,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T21:23:42Z",
+            "last_commit": "2026-08-14T12:29:54Z",
             "owner": "dlt-hub",
             "repo": "dlt",
-            "stars": 5737
+            "stars": 5739
           }
         },
         {
@@ -316,10 +316,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T08:19:20Z",
+            "last_commit": "2026-08-14T21:49:11Z",
             "owner": "bruin-data",
             "repo": "ingestr",
-            "stars": 3839
+            "stars": 3840
           }
         },
         {
@@ -344,7 +344,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T08:15:04Z",
+            "last_commit": "2026-08-14T18:58:01Z",
             "owner": "bruin-data",
             "repo": "bruin",
             "stars": 1666
@@ -358,7 +358,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T08:53:58Z",
+            "last_commit": "2026-08-14T14:34:37Z",
             "owner": "astronomer",
             "repo": "dag-factory",
             "stars": 1452
@@ -744,7 +744,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T08:19:35.595Z",
+    "last_updated": "2026-08-15T07:34:10.430Z",
     "original_repository": "jghoman/awesome-apache-airflow",
     "original_repository_sha": "65c8ff1627cc72b768a6657c6d94af53b3bb11ea",
     "enhanced_repository": "enhansome/enhansome-apache-airflow",
