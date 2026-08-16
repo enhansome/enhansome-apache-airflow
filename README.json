@@ -14,7 +14,7 @@
             "last_commit": "2022-02-20T14:09:39Z",
             "owner": "helm",
             "repo": "charts",
-            "stars": 15410
+            "stars": 15409
           }
         },
         {
@@ -53,7 +53,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T22:07:57Z",
+            "last_commit": "2026-08-15T12:28:28Z",
             "owner": "astronomer",
             "repo": "astronomer",
             "stars": 491
@@ -247,10 +247,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T03:44:06Z",
+            "last_commit": "2026-08-16T07:34:44Z",
             "owner": "apache",
             "repo": "airflow",
-            "stars": 46496
+            "stars": 46505
           }
         },
         {
@@ -305,7 +305,7 @@
             "last_commit": "2026-08-14T12:29:54Z",
             "owner": "dlt-hub",
             "repo": "dlt",
-            "stars": 5739
+            "stars": 5742
           }
         },
         {
@@ -316,10 +316,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T21:49:11Z",
+            "last_commit": "2026-08-15T09:11:36Z",
             "owner": "bruin-data",
             "repo": "ingestr",
-            "stars": 3840
+            "stars": 3842
           }
         },
         {
@@ -344,7 +344,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T18:58:01Z",
+            "last_commit": "2026-08-15T22:54:58Z",
             "owner": "bruin-data",
             "repo": "bruin",
             "stars": 1666
@@ -512,7 +512,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-09T20:11:01Z",
+            "last_commit": "2026-08-16T05:28:21Z",
             "owner": "airflow-laminar",
             "repo": "airflow-config",
             "stars": 17
@@ -744,7 +744,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T07:34:10.430Z",
+    "last_updated": "2026-08-16T07:34:47.646Z",
     "original_repository": "jghoman/awesome-apache-airflow",
     "original_repository_sha": "65c8ff1627cc72b768a6657c6d94af53b3bb11ea",
     "enhanced_repository": "enhansome/enhansome-apache-airflow",
