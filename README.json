@@ -57,7 +57,7 @@
             "archived": false,
             "id": 117595674,
             "language": "Python",
-            "last_commit": "2026-08-19T07:36:36Z",
+            "last_commit": "2026-08-19T10:45:03Z",
             "owner": "astronomer",
             "repo": "astronomer",
             "stars": 491
@@ -264,10 +264,10 @@
             "archived": false,
             "id": 33884891,
             "language": "Python",
-            "last_commit": "2026-08-19T07:33:34Z",
+            "last_commit": "2026-08-19T12:09:41Z",
             "owner": "apache",
             "repo": "airflow",
-            "stars": 46530
+            "stars": 46535
           }
         },
         {
@@ -322,10 +322,10 @@
             "archived": false,
             "id": 452221115,
             "language": "Python",
-            "last_commit": "2026-08-18T21:06:44Z",
+            "last_commit": "2026-08-19T09:54:44Z",
             "owner": "dlt-hub",
             "repo": "dlt",
-            "stars": 5754
+            "stars": 5755
           }
         },
         {
@@ -337,10 +337,10 @@
             "archived": false,
             "id": 756594023,
             "language": "Go",
-            "last_commit": "2026-08-19T07:39:30Z",
+            "last_commit": "2026-08-19T10:37:36Z",
             "owner": "bruin-data",
             "repo": "ingestr",
-            "stars": 3847
+            "stars": 3846
           }
         },
         {
@@ -367,10 +367,10 @@
             "archived": false,
             "id": 674225653,
             "language": "Go",
-            "last_commit": "2026-08-18T13:16:22Z",
+            "last_commit": "2026-08-19T12:11:12Z",
             "owner": "bruin-data",
             "repo": "bruin",
-            "stars": 1669
+            "stars": 1670
           }
         },
         {
@@ -789,8 +789,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T07:42:52.338Z",
+    "last_updated": "2026-08-19T12:16:11.187Z",
     "original_repository": "jghoman/awesome-apache-airflow",
+    "original_repository_id": 117064386,
     "original_repository_sha": "65c8ff1627cc72b768a6657c6d94af53b3bb11ea",
     "enhanced_repository": "enhansome/enhansome-apache-airflow",
     "enhanced_repository_description": null,
