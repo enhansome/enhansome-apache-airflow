@@ -15,7 +15,7 @@
             "last_commit": "2022-02-20T14:09:39Z",
             "owner": "helm",
             "repo": "charts",
-            "stars": 15408
+            "stars": 15407
           }
         },
         {
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 117595674,
             "language": "Python",
-            "last_commit": "2026-08-19T10:45:03Z",
+            "last_commit": "2026-08-20T06:56:29Z",
             "owner": "astronomer",
             "repo": "astronomer",
             "stars": 491
@@ -264,10 +264,10 @@
             "archived": false,
             "id": 33884891,
             "language": "Python",
-            "last_commit": "2026-08-19T12:09:41Z",
+            "last_commit": "2026-08-20T07:17:58Z",
             "owner": "apache",
             "repo": "airflow",
-            "stars": 46535
+            "stars": 46543
           }
         },
         {
@@ -322,10 +322,10 @@
             "archived": false,
             "id": 452221115,
             "language": "Python",
-            "last_commit": "2026-08-19T09:54:44Z",
+            "last_commit": "2026-08-19T14:35:53Z",
             "owner": "dlt-hub",
             "repo": "dlt",
-            "stars": 5755
+            "stars": 5758
           }
         },
         {
@@ -340,7 +340,7 @@
             "last_commit": "2026-08-19T10:37:36Z",
             "owner": "bruin-data",
             "repo": "ingestr",
-            "stars": 3846
+            "stars": 3850
           }
         },
         {
@@ -367,10 +367,10 @@
             "archived": false,
             "id": 674225653,
             "language": "Go",
-            "last_commit": "2026-08-19T12:11:12Z",
+            "last_commit": "2026-08-19T14:23:16Z",
             "owner": "bruin-data",
             "repo": "bruin",
-            "stars": 1670
+            "stars": 1671
           }
         },
         {
@@ -382,7 +382,7 @@
             "archived": false,
             "id": 158467856,
             "language": "Python",
-            "last_commit": "2026-08-14T14:34:37Z",
+            "last_commit": "2026-08-19T13:45:23Z",
             "owner": "astronomer",
             "repo": "dag-factory",
             "stars": 1452
@@ -789,7 +789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:16:11.187Z",
+    "last_updated": "2026-08-20T07:45:15.119Z",
     "original_repository": "jghoman/awesome-apache-airflow",
     "original_repository_id": 117064386,
     "original_repository_sha": "65c8ff1627cc72b768a6657c6d94af53b3bb11ea",
