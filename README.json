@@ -15,7 +15,7 @@
             "last_commit": "2022-02-20T14:09:39Z",
             "owner": "helm",
             "repo": "charts",
-            "stars": 15406
+            "stars": 15405
           }
         },
         {
@@ -264,10 +264,10 @@
             "archived": false,
             "id": 33884891,
             "language": "Python",
-            "last_commit": "2026-08-21T07:06:47Z",
+            "last_commit": "2026-08-22T07:26:38Z",
             "owner": "apache",
             "repo": "airflow",
-            "stars": 46562
+            "stars": 46576
           }
         },
         {
@@ -322,10 +322,10 @@
             "archived": false,
             "id": 452221115,
             "language": "Python",
-            "last_commit": "2026-08-20T16:05:56Z",
+            "last_commit": "2026-08-21T16:25:10Z",
             "owner": "dlt-hub",
             "repo": "dlt",
-            "stars": 5765
+            "stars": 5767
           }
         },
         {
@@ -337,10 +337,10 @@
             "archived": false,
             "id": 756594023,
             "language": "Go",
-            "last_commit": "2026-08-21T07:15:29Z",
+            "last_commit": "2026-08-21T15:01:04Z",
             "owner": "bruin-data",
             "repo": "ingestr",
-            "stars": 3851
+            "stars": 3856
           }
         },
         {
@@ -367,7 +367,7 @@
             "archived": false,
             "id": 674225653,
             "language": "Go",
-            "last_commit": "2026-08-21T07:42:43Z",
+            "last_commit": "2026-08-22T07:35:18Z",
             "owner": "bruin-data",
             "repo": "bruin",
             "stars": 1672
@@ -382,7 +382,7 @@
             "archived": false,
             "id": 158467856,
             "language": "Python",
-            "last_commit": "2026-08-20T13:45:09Z",
+            "last_commit": "2026-08-21T16:28:07Z",
             "owner": "astronomer",
             "repo": "dag-factory",
             "stars": 1452
@@ -585,21 +585,6 @@
         },
         {
           "node_type": "item",
-          "title": "Airflow ECR Plugin",
-          "description": "Plugin to refresh AWS ECR login token at regular intervals. This is helpful where DockerOperator needs to pull images hosted on ECR.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 226690850,
-            "language": "Python",
-            "last_commit": "2020-02-25T16:10:51Z",
-            "owner": "asandeep",
-            "repo": "airflow-ecr-plugin",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
           "title": "AirflowK8sDebugger",
           "description": "A library for generate k8s pod yaml templates from an Airflow dag using the KubernetesPodOperator.",
           "children": [],
@@ -626,6 +611,21 @@
             "owner": "omerzamir",
             "repo": "airflow-vars",
             "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Airflow ECR Plugin",
+          "description": "Plugin to refresh AWS ECR login token at regular intervals. This is helpful where DockerOperator needs to pull images hosted on ECR.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 226690850,
+            "language": "Python",
+            "last_commit": "2020-02-25T16:10:51Z",
+            "owner": "asandeep",
+            "repo": "airflow-ecr-plugin",
+            "stars": 9
           }
         },
         {
@@ -789,7 +789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T07:47:33.818Z",
+    "last_updated": "2026-08-22T07:35:20.065Z",
     "original_repository": "jghoman/awesome-apache-airflow",
     "original_repository_id": 117064386,
     "original_repository_sha": "65c8ff1627cc72b768a6657c6d94af53b3bb11ea",
