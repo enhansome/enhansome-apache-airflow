@@ -30,7 +30,7 @@
             "last_commit": "2023-03-01T09:11:52Z",
             "owner": "puckel",
             "repo": "docker-airflow",
-            "stars": 3810
+            "stars": 3809
           }
         },
         {
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 117595674,
             "language": "Python",
-            "last_commit": "2026-08-20T15:10:55Z",
+            "last_commit": "2026-08-24T07:56:43Z",
             "owner": "astronomer",
             "repo": "astronomer",
             "stars": 491
@@ -264,10 +264,10 @@
             "archived": false,
             "id": 33884891,
             "language": "Python",
-            "last_commit": "2026-08-23T06:12:42Z",
+            "last_commit": "2026-08-24T06:23:35Z",
             "owner": "apache",
             "repo": "airflow",
-            "stars": 46584
+            "stars": 46593
           }
         },
         {
@@ -322,10 +322,10 @@
             "archived": false,
             "id": 452221115,
             "language": "Python",
-            "last_commit": "2026-08-21T16:25:10Z",
+            "last_commit": "2026-08-23T19:52:03Z",
             "owner": "dlt-hub",
             "repo": "dlt",
-            "stars": 5770
+            "stars": 5774
           }
         },
         {
@@ -370,7 +370,7 @@
             "last_commit": "2026-08-22T11:05:14Z",
             "owner": "bruin-data",
             "repo": "bruin",
-            "stars": 1672
+            "stars": 1674
           }
         },
         {
@@ -547,7 +547,7 @@
             "archived": false,
             "id": 741200612,
             "language": "Python",
-            "last_commit": "2026-08-23T05:30:03Z",
+            "last_commit": "2026-08-23T16:46:04Z",
             "owner": "airflow-laminar",
             "repo": "airflow-config",
             "stars": 17
@@ -562,7 +562,7 @@
             "archived": false,
             "id": 601387725,
             "language": "Python",
-            "last_commit": "2026-08-23T05:29:57Z",
+            "last_commit": "2026-08-23T15:57:07Z",
             "owner": "airflow-laminar",
             "repo": "airflow-supervisor",
             "stars": 16
@@ -652,7 +652,7 @@
             "archived": false,
             "id": 835871821,
             "language": "Python",
-            "last_commit": "2026-08-23T05:30:15Z",
+            "last_commit": "2026-08-23T15:57:48Z",
             "owner": "airflow-laminar",
             "repo": "airflow-priority",
             "stars": 8
@@ -789,7 +789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T07:37:04.479Z",
+    "last_updated": "2026-08-24T08:00:05.335Z",
     "original_repository": "jghoman/awesome-apache-airflow",
     "original_repository_id": 117064386,
     "original_repository_sha": "65c8ff1627cc72b768a6657c6d94af53b3bb11ea",
