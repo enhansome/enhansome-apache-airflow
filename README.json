@@ -15,7 +15,7 @@
             "last_commit": "2022-02-20T14:09:39Z",
             "owner": "helm",
             "repo": "charts",
-            "stars": 15405
+            "stars": 15406
           }
         },
         {
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 117595674,
             "language": "Python",
-            "last_commit": "2026-08-24T07:56:43Z",
+            "last_commit": "2026-08-24T19:51:25Z",
             "owner": "astronomer",
             "repo": "astronomer",
             "stars": 491
@@ -264,10 +264,10 @@
             "archived": false,
             "id": 33884891,
             "language": "Python",
-            "last_commit": "2026-08-24T13:36:59Z",
+            "last_commit": "2026-08-25T03:01:51Z",
             "owner": "apache",
             "repo": "airflow",
-            "stars": 46596
+            "stars": 46598
           }
         },
         {
@@ -322,10 +322,10 @@
             "archived": false,
             "id": 452221115,
             "language": "Python",
-            "last_commit": "2026-08-24T11:42:35Z",
+            "last_commit": "2026-08-24T21:12:25Z",
             "owner": "dlt-hub",
             "repo": "dlt",
-            "stars": 5774
+            "stars": 5775
           }
         },
         {
@@ -340,7 +340,7 @@
             "last_commit": "2026-08-21T15:01:04Z",
             "owner": "bruin-data",
             "repo": "ingestr",
-            "stars": 3859
+            "stars": 3860
           }
         },
         {
@@ -367,10 +367,10 @@
             "archived": false,
             "id": 674225653,
             "language": "Go",
-            "last_commit": "2026-08-24T13:24:02Z",
+            "last_commit": "2026-08-24T18:02:55Z",
             "owner": "bruin-data",
             "repo": "bruin",
-            "stars": 1674
+            "stars": 1675
           }
         },
         {
@@ -789,7 +789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:59:49.332Z",
+    "last_updated": "2026-08-25T05:49:43.796Z",
     "original_repository": "jghoman/awesome-apache-airflow",
     "original_repository_id": 117064386,
     "original_repository_sha": "65c8ff1627cc72b768a6657c6d94af53b3bb11ea",
