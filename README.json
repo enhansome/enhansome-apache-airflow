@@ -57,7 +57,7 @@
             "archived": false,
             "id": 117595674,
             "language": "Python",
-            "last_commit": "2026-08-24T19:51:25Z",
+            "last_commit": "2026-08-25T07:07:56Z",
             "owner": "astronomer",
             "repo": "astronomer",
             "stars": 491
@@ -267,7 +267,7 @@
             "last_commit": "2026-08-25T03:01:51Z",
             "owner": "apache",
             "repo": "airflow",
-            "stars": 46598
+            "stars": 46597
           }
         },
         {
@@ -325,7 +325,7 @@
             "last_commit": "2026-08-24T21:12:25Z",
             "owner": "dlt-hub",
             "repo": "dlt",
-            "stars": 5775
+            "stars": 5776
           }
         },
         {
@@ -367,7 +367,7 @@
             "archived": false,
             "id": 674225653,
             "language": "Go",
-            "last_commit": "2026-08-24T18:02:55Z",
+            "last_commit": "2026-08-25T07:29:31Z",
             "owner": "bruin-data",
             "repo": "bruin",
             "stars": 1675
@@ -789,7 +789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:49:43.796Z",
+    "last_updated": "2026-08-25T07:49:13.071Z",
     "original_repository": "jghoman/awesome-apache-airflow",
     "original_repository_id": 117064386,
     "original_repository_sha": "65c8ff1627cc72b768a6657c6d94af53b3bb11ea",
