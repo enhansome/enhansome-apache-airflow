@@ -57,7 +57,7 @@
             "archived": false,
             "id": 117595674,
             "language": "Python",
-            "last_commit": "2026-08-27T11:21:05Z",
+            "last_commit": "2026-08-27T16:19:16Z",
             "owner": "astronomer",
             "repo": "astronomer",
             "stars": 490
@@ -105,7 +105,7 @@
             "last_commit": "2026-04-13T16:45:09Z",
             "owner": "dsaidgovsg",
             "repo": "airflow-pipeline",
-            "stars": 176
+            "stars": 177
           }
         },
         {
@@ -264,10 +264,10 @@
             "archived": false,
             "id": 33884891,
             "language": "Python",
-            "last_commit": "2026-08-27T11:18:07Z",
+            "last_commit": "2026-08-27T16:33:54Z",
             "owner": "apache",
             "repo": "airflow",
-            "stars": 46616
+            "stars": 46621
           }
         },
         {
@@ -322,10 +322,10 @@
             "archived": false,
             "id": 452221115,
             "language": "Python",
-            "last_commit": "2026-08-27T11:11:18Z",
+            "last_commit": "2026-08-27T13:35:32Z",
             "owner": "dlt-hub",
             "repo": "dlt",
-            "stars": 5780
+            "stars": 5782
           }
         },
         {
@@ -337,10 +337,10 @@
             "archived": false,
             "id": 756594023,
             "language": "Go",
-            "last_commit": "2026-08-27T10:58:35Z",
+            "last_commit": "2026-08-27T18:01:42Z",
             "owner": "bruin-data",
             "repo": "ingestr",
-            "stars": 3863
+            "stars": 3872
           }
         },
         {
@@ -367,7 +367,7 @@
             "archived": false,
             "id": 674225653,
             "language": "Go",
-            "last_commit": "2026-08-27T08:25:46Z",
+            "last_commit": "2026-08-27T15:29:48Z",
             "owner": "bruin-data",
             "repo": "bruin",
             "stars": 1678
@@ -789,7 +789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:23:35.386Z",
+    "last_updated": "2026-08-27T18:09:58.253Z",
     "original_repository_info": {
       "archived": false,
       "id": 117064386,
