@@ -16,7 +16,8 @@
             "owner": "helm",
             "repo": "charts",
             "stars": 15406
-          }
+          },
+          "first_seen": "2026-08-28T19:20:21.361Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "puckel",
             "repo": "docker-airflow",
             "stars": 3809
-          }
+          },
+          "first_seen": "2026-08-28T19:20:21.361Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "mumoshu",
             "repo": "kube-airflow",
             "stars": 654
-          }
+          },
+          "first_seen": "2026-08-28T19:20:21.361Z"
         },
         {
           "node_type": "item",
@@ -57,11 +60,12 @@
             "archived": false,
             "id": 117595674,
             "language": "Python",
-            "last_commit": "2026-08-27T16:19:16Z",
+            "last_commit": "2026-08-28T12:02:41Z",
             "owner": "astronomer",
             "repo": "astronomer",
             "stars": 490
-          }
+          },
+          "first_seen": "2026-08-28T19:20:21.361Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "villasv",
             "repo": "aws-airflow-stack",
             "stars": 378
-          }
+          },
+          "first_seen": "2026-08-28T19:20:21.361Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "GoogleCloudPlatform",
             "repo": "airflow-operator",
             "stars": 297
-          }
+          },
+          "first_seen": "2026-08-28T19:20:21.361Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "dsaidgovsg",
             "repo": "airflow-pipeline",
             "stars": 177
-          }
+          },
+          "first_seen": "2026-08-28T19:20:21.361Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "rolanddb",
             "repo": "airflow-on-kubernetes",
             "stars": 173
-          }
+          },
+          "first_seen": "2026-08-28T19:20:21.361Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "bahchis",
             "repo": "airflow-cookbook",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-28T19:20:21.361Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "EamonKeane",
             "repo": "airflow-GKE-k8sExecutor-helm",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T19:20:21.361Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "tekn0ir",
             "repo": "airflow-chart",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T19:20:21.361Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "noelmcloughlin",
             "repo": "airflow-component",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T19:20:21.361Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "msumit",
             "repo": "airflow-pex",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T19:20:21.361Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "KissConsult",
             "repo": "Apache-Airflow",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T19:20:21.361Z"
         }
       ],
       "title": "Airflow deployment solutions"
@@ -232,7 +246,8 @@
             "owner": "soggycactus",
             "repo": "airflow-repo-template",
             "stars": 257
-          }
+          },
+          "first_seen": "2026-08-28T19:20:21.361Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "KimaruThagna",
             "repo": "ml-pipelines-airflow",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T19:20:21.361Z"
         }
       ],
       "title": "Introductions and tutorials"
@@ -264,11 +280,12 @@
             "archived": false,
             "id": 33884891,
             "language": "Python",
-            "last_commit": "2026-08-27T16:33:54Z",
+            "last_commit": "2026-08-28T19:12:40Z",
             "owner": "apache",
             "repo": "airflow",
-            "stars": 46621
-          }
+            "stars": 46630
+          },
+          "first_seen": "2026-08-28T19:20:21.361Z"
         },
         {
           "node_type": "item",
@@ -283,7 +300,8 @@
             "owner": "stwind",
             "repo": "airflow-on-kubernetes",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-28T19:20:21.361Z"
         },
         {
           "node_type": "group",
@@ -303,7 +321,8 @@
                 "owner": "danielvdende",
                 "repo": "data-testing-with-airflow",
                 "stars": 203
-              }
+              },
+              "first_seen": "2026-08-28T19:20:21.361Z"
             }
           ]
         }
@@ -322,11 +341,12 @@
             "archived": false,
             "id": 452221115,
             "language": "Python",
-            "last_commit": "2026-08-27T13:35:32Z",
+            "last_commit": "2026-08-28T14:51:07Z",
             "owner": "dlt-hub",
             "repo": "dlt",
-            "stars": 5782
-          }
+            "stars": 5794
+          },
+          "first_seen": "2026-08-28T19:20:21.361Z"
         },
         {
           "node_type": "item",
@@ -337,11 +357,12 @@
             "archived": false,
             "id": 756594023,
             "language": "Go",
-            "last_commit": "2026-08-27T18:01:42Z",
+            "last_commit": "2026-08-28T16:43:43Z",
             "owner": "bruin-data",
             "repo": "ingestr",
-            "stars": 3872
-          }
+            "stars": 3901
+          },
+          "first_seen": "2026-08-28T19:20:21.361Z"
         },
         {
           "node_type": "item",
@@ -356,7 +377,8 @@
             "owner": "teamclairvoyant",
             "repo": "airflow-maintenance-dags",
             "stars": 1771
-          }
+          },
+          "first_seen": "2026-08-28T19:20:21.361Z"
         },
         {
           "node_type": "item",
@@ -367,11 +389,12 @@
             "archived": false,
             "id": 674225653,
             "language": "Go",
-            "last_commit": "2026-08-27T15:29:48Z",
+            "last_commit": "2026-08-28T14:16:16Z",
             "owner": "bruin-data",
             "repo": "bruin",
             "stars": 1678
-          }
+          },
+          "first_seen": "2026-08-28T19:20:21.361Z"
         },
         {
           "node_type": "item",
@@ -382,11 +405,12 @@
             "archived": false,
             "id": 158467856,
             "language": "Python",
-            "last_commit": "2026-08-21T16:28:07Z",
+            "last_commit": "2026-08-28T13:45:11Z",
             "owner": "astronomer",
             "repo": "dag-factory",
             "stars": 1454
-          }
+          },
+          "first_seen": "2026-08-28T19:20:21.361Z"
         },
         {
           "node_type": "item",
@@ -401,7 +425,8 @@
             "owner": "andreax79",
             "repo": "airflow-code-editor",
             "stars": 466
-          }
+          },
+          "first_seen": "2026-08-28T19:20:21.361Z"
         },
         {
           "node_type": "item",
@@ -416,7 +441,8 @@
             "owner": "pipeline-tools",
             "repo": "gusty",
             "stars": 286
-          }
+          },
+          "first_seen": "2026-08-28T19:20:21.361Z"
         },
         {
           "node_type": "item",
@@ -431,7 +457,8 @@
             "owner": "Tauffer-Consulting",
             "repo": "domino",
             "stars": 209
-          }
+          },
+          "first_seen": "2026-08-28T19:20:21.361Z"
         },
         {
           "node_type": "item",
@@ -446,7 +473,8 @@
             "owner": "godatadriven",
             "repo": "whirl",
             "stars": 205
-          }
+          },
+          "first_seen": "2026-08-28T19:20:21.361Z"
         },
         {
           "node_type": "item",
@@ -461,7 +489,8 @@
             "owner": "qubole",
             "repo": "afctl",
             "stars": 130
-          }
+          },
+          "first_seen": "2026-08-28T19:20:21.361Z"
         },
         {
           "node_type": "item",
@@ -476,7 +505,8 @@
             "owner": "BasPH",
             "repo": "pylint-airflow",
             "stars": 97
-          }
+          },
+          "first_seen": "2026-08-28T19:20:21.361Z"
         },
         {
           "node_type": "item",
@@ -491,7 +521,8 @@
             "owner": "GoogleCloudPlatform",
             "repo": "oozie-to-airflow",
             "stars": 93
-          }
+          },
+          "first_seen": "2026-08-28T19:20:21.361Z"
         },
         {
           "node_type": "item",
@@ -506,7 +537,8 @@
             "owner": "industrydive",
             "repo": "fileflow",
             "stars": 79
-          }
+          },
+          "first_seen": "2026-08-28T19:20:21.361Z"
         },
         {
           "node_type": "item",
@@ -521,7 +553,8 @@
             "owner": "ms32035",
             "repo": "airflow-dag-dependencies",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T19:20:21.361Z"
         },
         {
           "node_type": "item",
@@ -536,7 +569,8 @@
             "owner": "michaelosthege",
             "repo": "fairflow",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T19:20:21.361Z"
         },
         {
           "node_type": "item",
@@ -551,7 +585,8 @@
             "owner": "airflow-laminar",
             "repo": "airflow-config",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T19:20:21.361Z"
         },
         {
           "node_type": "item",
@@ -566,7 +601,8 @@
             "owner": "airflow-laminar",
             "repo": "airflow-supervisor",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T19:20:21.361Z"
         },
         {
           "node_type": "item",
@@ -581,7 +617,8 @@
             "owner": "ryanchao2012",
             "repo": "airfly",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T19:20:21.361Z"
         },
         {
           "node_type": "item",
@@ -596,7 +633,8 @@
             "owner": "Javier162380",
             "repo": "AirflowKuberentesDebugger",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T19:20:21.361Z"
         },
         {
           "node_type": "item",
@@ -611,7 +649,8 @@
             "owner": "omerzamir",
             "repo": "airflow-vars",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T19:20:21.361Z"
         },
         {
           "node_type": "item",
@@ -626,7 +665,8 @@
             "owner": "asandeep",
             "repo": "airflow-ecr-plugin",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T19:20:21.361Z"
         },
         {
           "node_type": "item",
@@ -641,7 +681,8 @@
             "owner": "politools",
             "repo": "dag-checks",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T19:20:21.361Z"
         },
         {
           "node_type": "item",
@@ -656,7 +697,8 @@
             "owner": "airflow-laminar",
             "repo": "airflow-priority",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T19:20:21.361Z"
         },
         {
           "node_type": "item",
@@ -671,7 +713,8 @@
             "owner": "xnuinside",
             "repo": "airflow-helper",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T19:20:21.361Z"
         },
         {
           "node_type": "item",
@@ -686,7 +729,8 @@
             "owner": "angadsingh",
             "repo": "airflow-ditto",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T19:20:21.361Z"
         },
         {
           "node_type": "item",
@@ -701,7 +745,8 @@
             "owner": "digitalearthafrica",
             "repo": "deafrica-airflow",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T19:20:21.361Z"
         },
         {
           "node_type": "item",
@@ -716,7 +761,8 @@
             "owner": "shopsavvy",
             "repo": "airflow-provider-shopsavvy",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T19:20:21.361Z"
         },
         {
           "node_type": "item",
@@ -731,7 +777,8 @@
             "owner": "UniRate-API",
             "repo": "airflow-provider-unirate",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T19:20:21.361Z"
         },
         {
           "node_type": "item",
@@ -746,7 +793,8 @@
             "owner": "deepflare",
             "repo": "airflow-dvc",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T19:20:21.361Z"
         }
       ],
       "title": "Libraries, Hooks, Utilities"
@@ -767,7 +815,8 @@
             "owner": "GoogleCloudPlatform",
             "repo": "public-datasets-pipelines",
             "stars": 180
-          }
+          },
+          "first_seen": "2026-08-28T19:20:21.361Z"
         },
         {
           "node_type": "item",
@@ -782,14 +831,15 @@
             "owner": "hankehly",
             "repo": "deploy-airflow-on-ecs-fargate",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T19:20:21.361Z"
         }
       ],
       "title": "Sample projects"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T18:09:58.253Z",
+    "last_updated": "2026-08-28T19:20:21.361Z",
     "original_repository_info": {
       "archived": false,
       "id": 117064386,
