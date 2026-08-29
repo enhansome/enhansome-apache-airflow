@@ -44,7 +44,7 @@
             "open_issues": 261,
             "owner": "puckel",
             "repo": "docker-airflow",
-            "stars": 3809,
+            "stars": 3810,
             "topics": [
               "airflow",
               "docker",
@@ -371,7 +371,7 @@
             "open_issues": 1,
             "owner": "soggycactus",
             "repo": "airflow-repo-template",
-            "stars": 257,
+            "stars": 256,
             "topics": []
           },
           "first_seen": "2026-08-28T19:20:21.361Z"
@@ -416,10 +416,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-29T04:03:00Z",
-            "open_issues": 1982,
+            "open_issues": 1988,
             "owner": "apache",
             "repo": "airflow",
-            "stars": 46630,
+            "stars": 46631,
             "topics": [
               "airflow",
               "apache",
@@ -523,7 +523,7 @@
             "open_issues": 416,
             "owner": "dlt-hub",
             "repo": "dlt",
-            "stars": 5794,
+            "stars": 5795,
             "topics": [
               "data",
               "data-engineering",
@@ -551,11 +551,11 @@
             "id": 756594023,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-28T16:43:43Z",
-            "open_issues": 32,
+            "last_commit": "2026-08-29T10:19:40Z",
+            "open_issues": 29,
             "owner": "bruin-data",
             "repo": "ingestr",
-            "stars": 3909,
+            "stars": 3913,
             "topics": [
               "bigquery",
               "copy-database",
@@ -612,8 +612,8 @@
             "id": 674225653,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T22:08:48Z",
-            "open_issues": 60,
+            "last_commit": "2026-08-29T09:25:28Z",
+            "open_issues": 58,
             "owner": "bruin-data",
             "repo": "bruin",
             "stars": 1679,
@@ -1292,7 +1292,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-07-10T12:08:51Z",
-            "open_issues": 156,
+            "open_issues": 153,
             "owner": "GoogleCloudPlatform",
             "repo": "public-datasets-pipelines",
             "stars": 180,
@@ -1347,7 +1347,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:18:08.296Z",
+    "last_updated": "2026-08-29T13:04:40.933Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of resources about Apache Airflow",
