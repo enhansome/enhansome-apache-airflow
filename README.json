@@ -90,7 +90,7 @@
             "id": 117595674,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-11T20:24:23Z",
+            "last_commit": "2026-09-13T07:38:04Z",
             "open_issues": 32,
             "owner": "astronomer",
             "repo": "astronomer",
@@ -415,11 +415,11 @@
             "id": 33884891,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-12T10:56:31Z",
-            "open_issues": 2151,
+            "last_commit": "2026-09-13T12:34:12Z",
+            "open_issues": 2134,
             "owner": "apache",
             "repo": "airflow",
-            "stars": 46837,
+            "stars": 46841,
             "topics": [
               "airflow",
               "apache",
@@ -523,7 +523,7 @@
             "open_issues": 423,
             "owner": "dlt-hub",
             "repo": "dlt",
-            "stars": 5846,
+            "stars": 5845,
             "topics": [
               "data",
               "data-engineering",
@@ -555,7 +555,7 @@
             "open_issues": 19,
             "owner": "bruin-data",
             "repo": "ingestr",
-            "stars": 3956,
+            "stars": 3958,
             "topics": [
               "bigquery",
               "copy-database",
@@ -616,7 +616,7 @@
             "open_issues": 57,
             "owner": "bruin-data",
             "repo": "bruin",
-            "stars": 1702,
+            "stars": 1703,
             "topics": [
               "analytics",
               "bigquery",
@@ -1292,7 +1292,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-07-10T12:08:51Z",
-            "open_issues": 157,
+            "open_issues": 158,
             "owner": "GoogleCloudPlatform",
             "repo": "public-datasets-pipelines",
             "stars": 180,
@@ -1347,7 +1347,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T11:32:33.042Z",
+    "last_updated": "2026-09-13T12:38:08.460Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of resources about Apache Airflow",
