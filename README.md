@@ -23,7 +23,7 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 
 ## Vital links
 
-* [Source code](https://github.com/apache/airflow/) ⭐ 47,036 | 🐛 1,829 | 🌐 Python | 📅 2026-10-03 (latest stable release [1.10.12](https://github.com/apache/airflow/tree/1.10.12) ⭐ 47,036 | 🐛 1,829 | 🌐 Python | 📅 2026-10-03)
+* [Source code](https://github.com/apache/airflow/) ⭐ 47,038 | 🐛 1,814 | 🌐 Python | 📅 2026-10-03 (latest stable release [1.10.12](https://github.com/apache/airflow/tree/1.10.12) ⭐ 47,038 | 🐛 1,814 | 🌐 Python | 📅 2026-10-03)
 * [Documentation](https://airflow.apache.org/) (also the official website)
 * [![Twitter Follow](https://img.shields.io/twitter/follow/apacheairflow?style=social)](https://twitter.com/ApacheAirflow)
 
@@ -127,7 +127,7 @@ or see the individual talks here:*
 
 ## Best practices, lessons learned and cool use cases
 
-* [We're all using Airflow wrong and how to fix it](https://medium.com/bluecore-engineering/were-all-using-airflow-wrong-and-how-to-fix-it-a56f14cb0753) - [Jessica Laughlin](https://www.jldlaughlin.com/) of [Bluecore](https://www.bluecore.com/) shares three engineering problems associated with the Airflow design and how to solve them by using the [KubernetesPodOperator](https://github.com/apache/airflow/blob/v1-10-stable/airflow/contrib/operators/kubernetes_pod_operator.py) ⭐ 47,036 | 🐛 1,829 | 🌐 Python | 📅 2026-10-03 in two design patterns.
+* [We're all using Airflow wrong and how to fix it](https://medium.com/bluecore-engineering/were-all-using-airflow-wrong-and-how-to-fix-it-a56f14cb0753) - [Jessica Laughlin](https://www.jldlaughlin.com/) of [Bluecore](https://www.bluecore.com/) shares three engineering problems associated with the Airflow design and how to solve them by using the [KubernetesPodOperator](https://github.com/apache/airflow/blob/v1-10-stable/airflow/contrib/operators/kubernetes_pod_operator.py) ⭐ 47,038 | 🐛 1,814 | 🌐 Python | 📅 2026-10-03 in two design patterns.
 * [Bare minimal Airflow on Kubernetes (Local, EKS, AKS)](https://github.com/stwind/airflow-on-kubernetes) ⭐ 53 | 🐛 1 | 🌐 Python | 📅 2020-03-04 - An article on deploying Airflow on local Kubernetes, AWS EKS and Azure AKS with bare minimal setup.
 * [How to Best Use DuckDB with Apache Airflow](https://medium.com/apache-airflow/how-to-best-use-duckdb-with-apache-airflow-63a079160d5d) - Tips on integrating [DuckDB](https://duckdb.org/) into Airflow jobs.
 * [Airflow Dag Python Package Management](https://www.youtube.com/watch?v=9pykChPp-X4\&t=121s) - Managing python package dependencies across 100+ dags can become painful. It's hard to keep track of which packages are used by which dag, and hard to clean up during DAG removal/upgrade. Learn how KubernetesPodOperator and DockerOperator can fix this.
@@ -191,7 +191,7 @@ or see the individual talks here:*
 
 ## Libraries, Hooks, Utilities
 
-* [dlt](https://github.com/dlt-hub/dlt) ⭐ 5,925 | 🐛 452 | 🌐 Python | 📅 2026-10-02 - [data load tool](https://dlthub.com/) is an open-source Python library for building data pipelines with schema inference and incremental loading. Includes an [Airflow helper](https://dlthub.com/docs/walkthroughs/deploy-a-pipeline/deploy-with-airflow-composer) to convert dlt pipelines into Airflow DAGs/TaskGroups.
+* [dlt](https://github.com/dlt-hub/dlt) ⭐ 5,925 | 🐛 452 | 🌐 Python | 📅 2026-10-03 - [data load tool](https://dlthub.com/) is an open-source Python library for building data pipelines with schema inference and incremental loading. Includes an [Airflow helper](https://dlthub.com/docs/walkthroughs/deploy-a-pipeline/deploy-with-airflow-composer) to convert dlt pipelines into Airflow DAGs/TaskGroups.
 * [ingestr](https://github.com/bruin-data/ingestr) ⭐ 3,987 | 🐛 31 | 🌐 Go | 📅 2026-10-02 - CLI tool to copy data between any source and destination with a single command. Use with BashOperator to load data from 50+ sources (Postgres, MongoDB, Salesforce, etc.) into your warehouse.
 * [airflow-maintenance-dags](https://github.com/teamclairvoyant/airflow-maintenance-dags) ⭐ 1,772 | 🐛 30 | 🌐 Python | 📅 2024-06-18 - Clairvoyant's repo of Airflow DAGs that operate on Airflow itself, clearing out various bits of the backing metadata store.
 * [Bruin](https://github.com/bruin-data/bruin) ⭐ 1,762 | 🐛 65 | 🌐 Go | 📅 2026-10-02 - Data ingestion and transformation layer with SQL and Python support. Ingests from 50+ sources (like Airbyte/Fivetran) and transforms (like dbt). Can be triggered from Airflow DAGs or run standalone. Includes built-in data quality checks.

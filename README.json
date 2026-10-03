@@ -415,11 +415,11 @@
             "id": 33884891,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T03:41:15Z",
-            "open_issues": 1829,
+            "last_commit": "2026-10-03T12:19:18Z",
+            "open_issues": 1814,
             "owner": "apache",
             "repo": "airflow",
-            "stars": 47036,
+            "stars": 47038,
             "topics": [
               "airflow",
               "apache",
@@ -519,7 +519,7 @@
             "id": 452221115,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T17:26:02Z",
+            "last_commit": "2026-10-03T11:09:25Z",
             "open_issues": 452,
             "owner": "dlt-hub",
             "repo": "dlt",
@@ -1347,7 +1347,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:32:38.661Z",
+    "last_updated": "2026-10-03T12:21:40.872Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of resources about Apache Airflow",
