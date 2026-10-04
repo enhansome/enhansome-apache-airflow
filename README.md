@@ -23,20 +23,20 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 
 ## Vital links
 
-* [Source code](https://github.com/apache/airflow/) ⭐ 47,038 | 🐛 1,814 | 🌐 Python | 📅 2026-10-03 (latest stable release [1.10.12](https://github.com/apache/airflow/tree/1.10.12) ⭐ 47,038 | 🐛 1,814 | 🌐 Python | 📅 2026-10-03)
+* [Source code](https://github.com/apache/airflow/) ⭐ 47,048 | 🐛 1,828 | 🌐 Python | 📅 2026-10-04 (latest stable release [1.10.12](https://github.com/apache/airflow/tree/1.10.12) ⭐ 47,048 | 🐛 1,828 | 🌐 Python | 📅 2026-10-04)
 * [Documentation](https://airflow.apache.org/) (also the official website)
 * [![Twitter Follow](https://img.shields.io/twitter/follow/apacheairflow?style=social)](https://twitter.com/ApacheAirflow)
 
 ## Airflow deployment solutions
 
 * [Stable Celery Helm Chart](https://github.com/helm/charts/tree/master/stable/airflow) ⚠️ Archived - Curated Helm Chart in the official stable chart repository.
-* [Puckel's Docker Image](https://github.com/puckel/docker-airflow) ⭐ 3,811 | 🐛 261 | 🌐 Shell | 📅 2023-03-01 - [@Puckel\_](https://twitter.com/Puckel_)'s well-crafted Docker image has become the base for many Airflow installations.  It is regularly updated and closely tracks the official Apache releases.
-* [kube-airflow](https://github.com/mumoshu/kube-airflow) ⭐ 654 | 🐛 25 | 🌐 Python | 📅 2019-07-19 - This repository contains both an Airflow Docker image (that appears to have been based on Puckel's work) and Kubernetes service definition.  [mumoshu](https://github.com/mumoshu)'s repository has not been recently updated, but there are numerous forks that may be based on more recent releases.
-* [Astronomer Platform](https://github.com/astronomerio/astronomer) ⭐ 491 | 🐛 36 | 🌐 Python | 📅 2026-10-02 - Apache Airflow as a Service on Kubernetes. For more information visit <https://www.astronomer.io>.
+* [Puckel's Docker Image](https://github.com/puckel/docker-airflow) ⭐ 3,810 | 🐛 261 | 🌐 Shell | 📅 2023-03-01 - [@Puckel\_](https://twitter.com/Puckel_)'s well-crafted Docker image has become the base for many Airflow installations.  It is regularly updated and closely tracks the official Apache releases.
+* [kube-airflow](https://github.com/mumoshu/kube-airflow) ⭐ 653 | 🐛 25 | 🌐 Python | 📅 2019-07-19 - This repository contains both an Airflow Docker image (that appears to have been based on Puckel's work) and Kubernetes service definition.  [mumoshu](https://github.com/mumoshu)'s repository has not been recently updated, but there are numerous forks that may be based on more recent releases.
+* [Astronomer Platform](https://github.com/astronomerio/astronomer) ⭐ 491 | 🐛 36 | 🌐 Python | 📅 2026-10-04 - Apache Airflow as a Service on Kubernetes. For more information visit <https://www.astronomer.io>.
 * [aws-airflow-stack](https://github.com/villasv/aws-airflow-stack) ⚠️ Archived - An AWS based Airflow cluster deployment with CeleryExecutor. Deploys after a few clicks with CloudFormation.
 * [Kubernetes Custom Operator for Deploying Airflow](https://github.com/GoogleCloudPlatform/airflow-operator) ⚠️ Archived - Kubernetes Custom controller (also called operator pattern) for deploying Airflow on Kubernetes.
 * [airflow-pipeline](https://github.com/datagovsg/airflow-pipeline) ⚠️ Archived - Airflow Docker container that comes preconfigured for Spark and Hadoop.  It can be docker pulled at `datagovsg/airflow-pipeline`.
-* [airflow-on-kubernetes](https://github.com/rolanddb/airflow-on-kubernetes) ⭐ 173 | 🐛 0 | 📅 2019-07-03 - A guide on all relevant resources, scripts and projects that relate to running Airflow on Kubernetes.
+* [airflow-on-kubernetes](https://github.com/rolanddb/airflow-on-kubernetes) ⭐ 172 | 🐛 0 | 📅 2019-07-03 - A guide on all relevant resources, scripts and projects that relate to running Airflow on Kubernetes.
 * [airflow-cookbook](https://github.com/bahchis/airflow-cookbook) ⭐ 70 | 🐛 3 | 🌐 Ruby | 📅 2019-07-11 - Chef cookbook for deploying Airflow.
 * [airflow-k8s-executor-on-GKE](https://github.com/EamonKeane/airflow-GKE-k8sExecutor-helm) ⚠️ Archived - A detailed tutorial to get a scalable, low maintenance airflow kubernetes executor environment deployed on [Google Kubernetes Engine](https://cloud.google.com/kubernetes-engine/) with [helm](https://helm.sh/).
 * [KubernetesExecutor Helm Chart](https://github.com/tekn0ir/airflow-chart) ⭐ 19 | 🐛 4 | 🌐 Smarty | 📅 2019-08-13 - A lean Helm Chart using the KubernetesExecutor for a more k8s native experience and complementary [KubernetesExecutor Docker Image](https://github.com/tekn0ir/airflow-docker) ⭐ 2 | 🐛 0 | 🌐 Dockerfile | 📅 2019-11-13.
@@ -49,7 +49,7 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 
 ## Introductions and tutorials
 
-* [Airflow Repository Template](https://github.com/soggycactus/airflow-repo-template) ⭐ 256 | 🐛 1 | 🌐 Python | 📅 2021-06-25 - A boilerplate repository for developing locally with Airflow, with linting & tests for valid DAGs and plugins. Just clone and run `make start-airflow` to get started! Add some CI jobs to deploy your code and you're done.
+* [Airflow Repository Template](https://github.com/soggycactus/airflow-repo-template) ⭐ 255 | 🐛 1 | 🌐 Python | 📅 2021-06-25 - A boilerplate repository for developing locally with Airflow, with linting & tests for valid DAGs and plugins. Just clone and run `make start-airflow` to get started! Add some CI jobs to deploy your code and you're done.
 * [ETL with Apache Airflow for Data Analysis on Transaction Data](https://github.com/KimaruThagna/ml-pipelines-airflow) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2021-06-12. [Kimaru Thagana](https://www.linkedin.com/in/kimaru-thagana-4920b5181/) covers a practical case of doing an ETL process using Apache Airflow using a dummy ecommerce store's transactional, user and product data. The data is served via a flask API.
 * [Apache Airflow Zero to Hero — 37-part tutorial series](https://thecodeforge.io/devops/airflow-introduction/) - Free 37-article series covering Airflow 3.x from first install to production (DAGs, TaskFlow API, sensors, Celery/Kubernetes executors, monitoring, CI/CD). Each guide opens with a real production incident and includes runnable code.
 * [Apache Airflow Monitoring Metrics](https://youtu.be/xyeR_uFhnD4) - A two-part series by [maxcotec](https://maxcotec.com) on how you can utilize existing Airflow statsd metrics to monitor your airflow deployment on Grafana dashboard via Prometheus. Also learn how to create custom metrics.
@@ -127,7 +127,7 @@ or see the individual talks here:*
 
 ## Best practices, lessons learned and cool use cases
 
-* [We're all using Airflow wrong and how to fix it](https://medium.com/bluecore-engineering/were-all-using-airflow-wrong-and-how-to-fix-it-a56f14cb0753) - [Jessica Laughlin](https://www.jldlaughlin.com/) of [Bluecore](https://www.bluecore.com/) shares three engineering problems associated with the Airflow design and how to solve them by using the [KubernetesPodOperator](https://github.com/apache/airflow/blob/v1-10-stable/airflow/contrib/operators/kubernetes_pod_operator.py) ⭐ 47,038 | 🐛 1,814 | 🌐 Python | 📅 2026-10-03 in two design patterns.
+* [We're all using Airflow wrong and how to fix it](https://medium.com/bluecore-engineering/were-all-using-airflow-wrong-and-how-to-fix-it-a56f14cb0753) - [Jessica Laughlin](https://www.jldlaughlin.com/) of [Bluecore](https://www.bluecore.com/) shares three engineering problems associated with the Airflow design and how to solve them by using the [KubernetesPodOperator](https://github.com/apache/airflow/blob/v1-10-stable/airflow/contrib/operators/kubernetes_pod_operator.py) ⭐ 47,048 | 🐛 1,828 | 🌐 Python | 📅 2026-10-04 in two design patterns.
 * [Bare minimal Airflow on Kubernetes (Local, EKS, AKS)](https://github.com/stwind/airflow-on-kubernetes) ⭐ 53 | 🐛 1 | 🌐 Python | 📅 2020-03-04 - An article on deploying Airflow on local Kubernetes, AWS EKS and Azure AKS with bare minimal setup.
 * [How to Best Use DuckDB with Apache Airflow](https://medium.com/apache-airflow/how-to-best-use-duckdb-with-apache-airflow-63a079160d5d) - Tips on integrating [DuckDB](https://duckdb.org/) into Airflow jobs.
 * [Airflow Dag Python Package Management](https://www.youtube.com/watch?v=9pykChPp-X4\&t=121s) - Managing python package dependencies across 100+ dags can become painful. It's hard to keep track of which packages are used by which dag, and hard to clean up during DAG removal/upgrade. Learn how KubernetesPodOperator and DockerOperator can fix this.
@@ -191,11 +191,11 @@ or see the individual talks here:*
 
 ## Libraries, Hooks, Utilities
 
-* [dlt](https://github.com/dlt-hub/dlt) ⭐ 5,925 | 🐛 452 | 🌐 Python | 📅 2026-10-03 - [data load tool](https://dlthub.com/) is an open-source Python library for building data pipelines with schema inference and incremental loading. Includes an [Airflow helper](https://dlthub.com/docs/walkthroughs/deploy-a-pipeline/deploy-with-airflow-composer) to convert dlt pipelines into Airflow DAGs/TaskGroups.
-* [ingestr](https://github.com/bruin-data/ingestr) ⭐ 3,987 | 🐛 31 | 🌐 Go | 📅 2026-10-02 - CLI tool to copy data between any source and destination with a single command. Use with BashOperator to load data from 50+ sources (Postgres, MongoDB, Salesforce, etc.) into your warehouse.
+* [dlt](https://github.com/dlt-hub/dlt) ⭐ 5,927 | 🐛 452 | 🌐 Python | 📅 2026-10-04 - [data load tool](https://dlthub.com/) is an open-source Python library for building data pipelines with schema inference and incremental loading. Includes an [Airflow helper](https://dlthub.com/docs/walkthroughs/deploy-a-pipeline/deploy-with-airflow-composer) to convert dlt pipelines into Airflow DAGs/TaskGroups.
+* [ingestr](https://github.com/bruin-data/ingestr) ⭐ 3,987 | 🐛 29 | 🌐 Go | 📅 2026-10-03 - CLI tool to copy data between any source and destination with a single command. Use with BashOperator to load data from 50+ sources (Postgres, MongoDB, Salesforce, etc.) into your warehouse.
 * [airflow-maintenance-dags](https://github.com/teamclairvoyant/airflow-maintenance-dags) ⭐ 1,772 | 🐛 30 | 🌐 Python | 📅 2024-06-18 - Clairvoyant's repo of Airflow DAGs that operate on Airflow itself, clearing out various bits of the backing metadata store.
-* [Bruin](https://github.com/bruin-data/bruin) ⭐ 1,762 | 🐛 65 | 🌐 Go | 📅 2026-10-02 - Data ingestion and transformation layer with SQL and Python support. Ingests from 50+ sources (like Airbyte/Fivetran) and transforms (like dbt). Can be triggered from Airflow DAGs or run standalone. Includes built-in data quality checks.
-* [dag-factory](https://github.com/ajbosco/dag-factory) ⭐ 1,461 | 🐛 91 | 🌐 Python | 📅 2026-10-02 - A library for dynamically generating Apache Airflow DAGs from YAML configuration files.
+* [Bruin](https://github.com/bruin-data/bruin) ⭐ 1,766 | 🐛 66 | 🌐 Go | 📅 2026-10-03 - Data ingestion and transformation layer with SQL and Python support. Ingests from 50+ sources (like Airbyte/Fivetran) and transforms (like dbt). Can be triggered from Airflow DAGs or run standalone. Includes built-in data quality checks.
+* [dag-factory](https://github.com/ajbosco/dag-factory) ⭐ 1,461 | 🐛 92 | 🌐 Python | 📅 2026-10-02 - A library for dynamically generating Apache Airflow DAGs from YAML configuration files.
 * [airflow-code-editor](https://github.com/andreax79/airflow-code-editor) ⭐ 468 | 🐛 2 | 🌐 Python | 📅 2026-10-01 - A plugin for Apache Airflow that allows you to edit DAGs in browser.
 * [gusty](https://github.com/chriscardillo/gusty) ⭐ 286 | 🐛 2 | 🌐 Python | 📅 2026-08-12 - Create a DAG using any number of YAML, Python, Jupyter Notebook, or R Markdown files that represent individual tasks in the DAG. gusty also configures dependencies, DAGs, and TaskGroups, features support for your local operators, and more. A fully containerized demo is available [here](https://github.com/chriscardillo/gusty-demo) ⭐ 39 | 🐛 1 | 🌐 Python | 📅 2024-06-17.
 * [Domino](https://github.com/Tauffer-Consulting/domino) ⭐ 209 | 🐛 28 | 🌐 Python | 📅 2026-03-06 - Domino is an open source Graphical User Interface platform for creating data and Machine Learning workflows (DAGs) with no-code, visually intuitive drag-and-drop actions. It is also a standard for publishing and sharing your Python code so it can be automatically used by anyone, directly in the GUI.
@@ -206,14 +206,14 @@ or see the individual talks here:*
 * [fileflow](https://github.com/industrydive/fileflow) ⭐ 79 | 🐛 8 | 🌐 Python | 📅 2018-10-19 - Collection of modules to support large data transfers between Airflow operators through either local file system or S3.  This addresses a gap where data is too large for XCOMs but too small or inconvenient for loading directly in the operator.  Built by [Industry Dive](https://www.industrydive.com/).
 * [Dag Dependencies viewer](https://github.com/ms32035/airflow-dag-dependencies) ⚠️ Archived - A plugin which creates a view to visualize dependencies between the Airflow DAGs
 * [fairflow](https://github.com/michaelosthege/fairflow) ⚠️ Archived - Library to abstract away Airflow's Operators with functional pieces that transform the data from one operator to another.
-* [airflow-config](https://github.com/airflow-laminar/airflow-config) ⭐ 17 | 🐛 6 | 🌐 Python | 📅 2026-10-01 - [Pydantic](https://pydantic.dev) / [Hydra](https://hydra.cc) based configuration system for DAG and Task arguments
+* [airflow-config](https://github.com/airflow-laminar/airflow-config) ⭐ 17 | 🐛 7 | 🌐 Python | 📅 2026-10-04 - [Pydantic](https://pydantic.dev) / [Hydra](https://hydra.cc) based configuration system for DAG and Task arguments
 * [airflow-supervisor](https://github.com/airflow-laminar/airflow-supervisor) ⭐ 16 | 🐛 7 | 🌐 Python | 📅 2026-10-01 - Easy-to-use [supervisor](http://supervisord.org) integration for long running or "always on" DAGs
 * [AirFly](https://github.com/ryanchao2012/airfly) ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2025-02-10 - Auto generate Airflow's dag.py on the fly.
 * [AirflowK8sDebugger](https://github.com/Javier162380/AirflowKuberentesDebugger) ⭐ 10 | 🐛 1 | 🌐 Python | 📅 2021-05-06 - A library for generate k8s pod yaml templates from an Airflow dag using the KubernetesPodOperator.
 * [Airflow Vars](https://github.com/omerzamir/airflow-vars) ⭐ 10 | 🐛 0 | 🌐 Go | 📅 2026-09-16 - A CLI for variables management, created for CD-Pipelines in order to allow robust and safe variables management.
 * [Airflow ECR Plugin](https://github.com/asandeep/airflow-ecr-plugin) ⭐ 9 | 🐛 2 | 🌐 Python | 📅 2020-02-25 - Plugin to refresh AWS ECR login token at regular intervals. This is helpful where DockerOperator needs to pull images hosted on ECR.
 * [DAG checks](https://github.com/politools/dag-checks) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2021-02-06 - The dag-checks consist of checks that can help you in maintaining your Apache Airflow instance.
-* [airflow-priority](https://github.com/airflow-laminar/airflow-priority) ⭐ 8 | 🐛 3 | 🌐 Python | 📅 2026-10-01 - Priority Tags (P1, P2, etc) for Airflow DAGs with automated alerting to Datadog, New Relic, Slack, Discord, and more
+* [airflow-priority](https://github.com/airflow-laminar/airflow-priority) ⭐ 8 | 🐛 4 | 🌐 Python | 📅 2026-10-04 - Priority Tags (P1, P2, etc) for Airflow DAGs with automated alerting to Datadog, New Relic, Slack, Discord, and more
 * [Airflow-Helper](https://github.com/xnuinside/airflow-helper) ⭐ 5 | 🐛 3 | 🌐 Python | 📅 2024-04-01 - setting up Airflow Variables, Connections, and Pools from a YAML configuration file.
 * [Airflow Ditto](https://github.com/angadsingh/airflow-ditto) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2020-07-10 - An extensible framework to do transformations to an Airflow DAG and convert it into another DAG which is flow-isomorphic with the original DAG, to be able to run it on different environments (e.g. on different clouds, or even different container frameworks - Apache Spark on YARN vs Kubernetes). Comes with out-of-the-box support for EMR-to-HDInsight-DAG transforms.
 * [DEAfrica Airflow](https://github.com/digitalearthafrica/deafrica-airflow) ⭐ 3 | 🐛 5 | 🌐 Python | 📅 2021-09-20 - Airflow libraries used by [Digital Earth Africa](https://digitalearthafrica.org/), an humanitarian effort to utilize satellite imagery of Africa.
@@ -266,7 +266,7 @@ or see the individual talks here:*
 
 ## Sample projects
 
-* [Google Cloud Platform Public Datasets Pipelines](https://github.com/GoogleCloudPlatform/public-datasets-pipelines) ⭐ 179 | 🐛 160 | 🌐 Python | 📅 2026-07-10 - Cloud-native, data pipeline architecture for onboarding datasets to the Google Cloud Public Datasets Program.
+* [Google Cloud Platform Public Datasets Pipelines](https://github.com/GoogleCloudPlatform/public-datasets-pipelines) ⭐ 178 | 🐛 160 | 🌐 Python | 📅 2026-07-10 - Cloud-native, data pipeline architecture for onboarding datasets to the Google Cloud Public Datasets Program.
 * [deploy-airflow-on-ecs-fargate](https://github.com/hankehly/deploy-airflow-on-ecs-fargate) ⚠️ Archived - Deploy to Amazon ECS Fargate. Demonstrates various features and configurations, such as autoscaling workers to zero, S3 remote logging and secret management.
 
 ## License
@@ -277,4 +277,4 @@ To the extent possible under law, [Jakob Homan](https://github.com/jghoman) has 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
