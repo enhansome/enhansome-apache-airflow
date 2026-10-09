@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "helm",
             "repo": "charts",
-            "stars": 15399,
+            "stars": 15400,
             "topics": [
               "charts",
               "helm",
@@ -90,7 +90,7 @@
             "id": 117595674,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-08T10:49:07Z",
+            "last_commit": "2026-10-09T09:27:28Z",
             "open_issues": 39,
             "owner": "astronomer",
             "repo": "astronomer",
@@ -415,11 +415,11 @@
             "id": 33884891,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-08T14:20:09Z",
-            "open_issues": 1832,
+            "last_commit": "2026-10-09T14:03:02Z",
+            "open_issues": 1824,
             "owner": "apache",
             "repo": "airflow",
-            "stars": 47118,
+            "stars": 47132,
             "topics": [
               "airflow",
               "apache",
@@ -519,11 +519,11 @@
             "id": 452221115,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-08T13:20:21Z",
-            "open_issues": 454,
+            "last_commit": "2026-10-09T08:12:47Z",
+            "open_issues": 459,
             "owner": "dlt-hub",
             "repo": "dlt",
-            "stars": 5941,
+            "stars": 5948,
             "topics": [
               "data",
               "data-engineering",
@@ -551,11 +551,11 @@
             "id": 756594023,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-08T12:57:36Z",
-            "open_issues": 32,
+            "last_commit": "2026-10-09T12:07:46Z",
+            "open_issues": 33,
             "owner": "bruin-data",
             "repo": "ingestr",
-            "stars": 4002,
+            "stars": 4004,
             "topics": [
               "bigquery",
               "copy-database",
@@ -567,6 +567,39 @@
               "mssql",
               "postgresql",
               "snowflake"
+            ]
+          },
+          "first_seen": "2026-08-28T19:20:21.361Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Bruin",
+          "description": "Data ingestion and transformation layer with SQL and Python support. Ingests from 50+ sources (like Airbyte/Fivetran) and transforms (like dbt). Can be triggered from Airflow DAGs or run standalone. Includes built-in data quality checks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Build data pipelines with SQL and Python, ingest data from different sources, add quality checks, and build end-to-end flows.",
+            "homepage": "https://getbruin.com/docs/bruin/",
+            "id": 674225653,
+            "language": "Go",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-09T12:46:21Z",
+            "open_issues": 73,
+            "owner": "bruin-data",
+            "repo": "bruin",
+            "stars": 1775,
+            "topics": [
+              "analytics",
+              "bigquery",
+              "data-analysis",
+              "data-ingestion",
+              "data-modeling",
+              "data-pipelines",
+              "data-platform",
+              "data-transformation",
+              "python",
+              "snowflake",
+              "sql"
             ]
           },
           "first_seen": "2026-08-28T19:20:21.361Z"
@@ -602,39 +635,6 @@
         },
         {
           "node_type": "item",
-          "title": "Bruin",
-          "description": "Data ingestion and transformation layer with SQL and Python support. Ingests from 50+ sources (like Airbyte/Fivetran) and transforms (like dbt). Can be triggered from Airflow DAGs or run standalone. Includes built-in data quality checks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Build data pipelines with SQL and Python, ingest data from different sources, add quality checks, and build end-to-end flows.",
-            "homepage": "https://getbruin.com/docs/bruin/",
-            "id": 674225653,
-            "language": "Go",
-            "license": "Apache-2.0",
-            "last_commit": "2026-10-08T13:38:17Z",
-            "open_issues": 72,
-            "owner": "bruin-data",
-            "repo": "bruin",
-            "stars": 1771,
-            "topics": [
-              "analytics",
-              "bigquery",
-              "data-analysis",
-              "data-ingestion",
-              "data-modeling",
-              "data-pipelines",
-              "data-platform",
-              "data-transformation",
-              "python",
-              "snowflake",
-              "sql"
-            ]
-          },
-          "first_seen": "2026-08-28T19:20:21.361Z"
-        },
-        {
-          "node_type": "item",
           "title": "dag-factory",
           "description": "A library for dynamically generating Apache Airflow DAGs from YAML configuration files.",
           "children": [],
@@ -645,11 +645,11 @@
             "id": 158467856,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T07:17:47Z",
-            "open_issues": 91,
+            "last_commit": "2026-10-09T13:44:03Z",
+            "open_issues": 92,
             "owner": "astronomer",
             "repo": "dag-factory",
-            "stars": 1461,
+            "stars": 1462,
             "topics": [
               "airflow",
               "apache-airflow",
@@ -1368,7 +1368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T14:28:23.750Z",
+    "last_updated": "2026-10-09T14:15:18.808Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of resources about Apache Airflow",
