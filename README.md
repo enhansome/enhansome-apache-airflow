@@ -1,4 +1,4 @@
-[<img src="https://github.com/jghoman/awesome-apache-airflow/raw/master/airflow-logo.png" align="right">](https://airflow.apache.org/)
+[<img src="https://github.com/jghoman/awesome-apache-airflow/raw/main/airflow-logo.png" align="right">](https://airflow.apache.org/)
 
 # Awesome Apache Airflow with stars
 
@@ -23,16 +23,16 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 
 ## Vital links
 
-* [Source code](https://github.com/apache/airflow/) ⭐ 47,652 | 🐛 1,978 | 🌐 Python | 📅 2026-11-24 (latest stable release [1.10.12](https://github.com/apache/airflow/tree/1.10.12) ⭐ 47,652 | 🐛 1,978 | 🌐 Python | 📅 2026-11-24)
+* [Source code](https://github.com/apache/airflow/) ⭐ 47,668 | 🐛 1,935 | 🌐 Python | 📅 2026-11-25 ([releases](https://github.com/apache/airflow/releases) ⭐ 47,668 | 🐛 1,935 | 🌐 Python | 📅 2026-11-25)
 * [Documentation](https://airflow.apache.org/) (also the official website)
 * [![Twitter Follow](https://img.shields.io/twitter/follow/apacheairflow?style=social)](https://twitter.com/ApacheAirflow)
 
 ## Airflow deployment solutions
 
 * [Stable Celery Helm Chart](https://github.com/helm/charts/tree/master/stable/airflow) ⚠️ Archived - Curated Helm Chart in the official stable chart repository.
-* [Puckel's Docker Image](https://github.com/puckel/docker-airflow) ⭐ 3,809 | 🐛 261 | 🌐 Shell | 📅 2023-03-01 - [@Puckel\_](https://twitter.com/Puckel_)'s well-crafted Docker image has become the base for many Airflow installations.  It is regularly updated and closely tracks the official Apache releases.
+* [Puckel's Docker Image](https://github.com/puckel/docker-airflow) ⭐ 3,808 | 🐛 261 | 🌐 Shell | 📅 2023-03-01 - [@Puckel\_](https://twitter.com/Puckel_)'s well-crafted Docker image has become the base for many Airflow installations.  It is regularly updated and closely tracks the official Apache releases.
 * [kube-airflow](https://github.com/mumoshu/kube-airflow) ⭐ 653 | 🐛 25 | 🌐 Python | 📅 2019-07-19 - This repository contains both an Airflow Docker image (that appears to have been based on Puckel's work) and Kubernetes service definition.  [mumoshu](https://github.com/mumoshu)'s repository has not been recently updated, but there are numerous forks that may be based on more recent releases.
-* [Astronomer Platform](https://github.com/astronomerio/astronomer) ⭐ 490 | 🐛 34 | 🌐 Python | 📅 2026-11-24 - Apache Airflow as a Service on Kubernetes. For more information visit <https://www.astronomer.io>.
+* [Astronomer Platform](https://github.com/astronomerio/astronomer) ⭐ 490 | 🐛 34 | 🌐 Python | 📅 2026-11-25 - Apache Airflow as a Service on Kubernetes. For more information visit <https://www.astronomer.io>.
 * [aws-airflow-stack](https://github.com/villasv/aws-airflow-stack) ⚠️ Archived - An AWS based Airflow cluster deployment with CeleryExecutor. Deploys after a few clicks with CloudFormation.
 * [Kubernetes Custom Operator for Deploying Airflow](https://github.com/GoogleCloudPlatform/airflow-operator) ⚠️ Archived - Kubernetes Custom controller (also called operator pattern) for deploying Airflow on Kubernetes.
 * [airflow-pipeline](https://github.com/datagovsg/airflow-pipeline) ⚠️ Archived - Airflow Docker container that comes preconfigured for Spark and Hadoop.  It can be docker pulled at `datagovsg/airflow-pipeline`.
@@ -42,9 +42,9 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 * [KubernetesExecutor Helm Chart](https://github.com/tekn0ir/airflow-chart) ⭐ 19 | 🐛 4 | 🌐 Smarty | 📅 2019-08-13 - A lean Helm Chart using the KubernetesExecutor for a more k8s native experience and complementary [KubernetesExecutor Docker Image](https://github.com/tekn0ir/airflow-docker) ⭐ 2 | 🐛 0 | 🌐 Dockerfile | 📅 2019-11-13.
 * [Airflow-Component](https://github.com/noelmcloughlin/airflow-component#lightweight-federated-apache-airflow-installer) ⭐ 7 | 🐛 0 | 🌐 Jinja | 📅 2021-09-09 - Lightweight installer of federated Airflow-Airflow (RabbitMQ) reference architectrure on Compute node(s).
 * [Distribute & deploy Apache Airflow via Python PEX files](https://github.com/msumit/airflow-pex) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2020-02-04 - Example repo with steps to bundle, distribute, & deploy Apache Airflow as PEX files.
-* [Installing Airflow on IBM Cloud](https://github.com/KissConsult/Apache-Airflow) ⭐ 1 | 🐛 0 | 📅 2020-10-13 - Quick and easy deployment on IBM Cloud with IBM [Bitnami Charts](https://github.com/bitnami/charts) ⭐ 10,434 | 🐛 8 | 🌐 Go Template | 📅 2026-11-24
+* [Installing Airflow on IBM Cloud](https://github.com/KissConsult/Apache-Airflow) ⭐ 1 | 🐛 0 | 📅 2020-10-13 - Quick and easy deployment on IBM Cloud with IBM [Bitnami Charts](https://github.com/bitnami/charts) ⭐ 10,435 | 🐛 9 | 🌐 Go Template | 📅 2026-11-24
 * [Apache Airflow Multi-Tier Free Deployment on Azure](https://azure.microsoft.com/en-us/blog/bitnami-apache-airflow-multi-tier-now-available-in-azure-marketplace/) - A free Azure Resource Manager (ARM) template by Bitnami providing a one-click solution for Airflow deployment on Azure for production use-cases.
-* [Integrating Apache Airflow with Apache Ambari](https://medium.com/@mykolamykhalov/integrating-apache-airflow-with-apache-ambari-ccab2c90173) - [Mykola Mykhalov](https://www.linkedin.com/in/mykola-mykhalov-9079a8107/) walks through using [Apache Ambari](https://ambari.apache.org/) to configure and deploy an Airflow instance.
+* [Integrating Apache Airflow with Apache Ambari](https://medium.com/@mykolamykhalov/integrating-apache-airflow-with-apache-ambari-ccab2c90173) - Mykola Mykhalov walks through using [Apache Ambari](https://ambari.apache.org/) to configure and deploy an Airflow instance.
 * [Introducing KEDA for Airflow](https://www.astronomer.io/blog/the-keda-autoscaler/) - How to use KEDA scaler system to enable autoscaling of celery workers based on data stored in the Airflow metadata database.
 
 ## Introductions and tutorials
@@ -52,8 +52,8 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 * [Airflow Repository Template](https://github.com/soggycactus/airflow-repo-template) ⭐ 258 | 🐛 1 | 🌐 Python | 📅 2021-06-25 - A boilerplate repository for developing locally with Airflow, with linting & tests for valid DAGs and plugins. Just clone and run `make start-airflow` to get started! Add some CI jobs to deploy your code and you're done.
 * [ETL with Apache Airflow for Data Analysis on Transaction Data](https://github.com/KimaruThagna/ml-pipelines-airflow) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2021-06-12. [Kimaru Thagana](https://www.linkedin.com/in/kimaru-thagana-4920b5181/) covers a practical case of doing an ETL process using Apache Airflow using a dummy ecommerce store's transactional, user and product data. The data is served via a flask API.
 * [Apache Airflow Zero to Hero — 37-part tutorial series](https://thecodeforge.io/devops/airflow-introduction/) - Free 37-article series covering Airflow 3.x from first install to production (DAGs, TaskFlow API, sensors, Celery/Kubernetes executors, monitoring, CI/CD). Each guide opens with a real production incident and includes runnable code.
-* [Apache Airflow Monitoring Metrics](https://youtu.be/xyeR_uFhnD4) - A two-part series by [maxcotec](https://maxcotec.com) on how you can utilize existing Airflow statsd metrics to monitor your airflow deployment on Grafana dashboard via Prometheus. Also learn how to create custom metrics.
-* [Introduction to Airflow](https://www.youtube.com/playlist?list=PLzKRcZrsJN_xcKKyKn18K7sWu5TTtdywh) - A web tutorial series by [maxcotec](https://maxcotec.com) for beginners and intermediate users of Apache Airflow.
+* [Apache Airflow Monitoring Metrics](https://youtu.be/xyeR_uFhnD4) - A two-part series by maxcotec on how you can utilize existing Airflow statsd metrics to monitor your airflow deployment on Grafana dashboard via Prometheus. Also learn how to create custom metrics.
+* [Introduction to Airflow](https://www.youtube.com/playlist?list=PLzKRcZrsJN_xcKKyKn18K7sWu5TTtdywh) - A web tutorial series by maxcotec for beginners and intermediate users of Apache Airflow.
 * [Start Building Better Data Pipelines With apache Airflow](https://blog.delaplex.com/start-building-better-data-pipelines-with-apache-airflow) 2020-Oct - Naman Gupta covers the basics of Airflow and its concepts.
 * [Remote spark-submit to YARN running on EMR](https://medium.com/@tamizhgeek/remote-spark-submit-toyarn-running-on-emr-9804b89d82d2) - [Azhaguselvan](https://github.com/tamizhgeek) walks through submitting Spark jobs to existing EMR clusters with Airflow.
 * [Dustin Stansbury](https://twitter.com/corrcoef) of [Quizlet](https://quizlet.com/) has written a four-part series that covers what workflow managers do in general, how Quizlet picked Airflow, a tour of Airflow's key concepts, and how Quizlet is now using Airflow in practice:
@@ -65,9 +65,9 @@ This is a curated list of resources about [Apache Airflow](https://airflow.apach
 * [Testing and debugging Apache Airflow](https://blog.godatadriven.com/testing-and-debugging-apache-airflow) - Article explaining how to apply unit testing, mocking and debugging to Airflow code.
 * [Get started developing workflows with Apache Airflow](http://michal.karzynski.pl/blog/2017/03/19/developing-workflows-with-apache-airflow/) - This brief introductory tutorial covers how to create data pipeline and processing workflow using DAG, operators, Sensor, using Xcoms to communicate between operators.
 * [Get started with Airflow + Google Cloud Platform + Docker](https://medium.com/@junjiejiang94/get-started-with-airflow-google-cloud-platform-docker-a21c46e0f797) - Step-by-step introduction by [Jayce Jiang](https://medium.com/@junjiejiang94).
-* [How to develop data pipeline in Airflow through TDD (test-driven development)](https://blog.magrathealabs.com/how-to-develop-data-pipeline-in-airflow-through-tdd-test-driven-development-c3333439f358) - Learn how to build a sales data pipeline using TDD step-by-step and in the end how to configure a simple CI workflow using Github Actions.
 * [Apache Airflow for Data Engineers](https://datadank.com/airflow/) - Free 10-lesson course on Airflow 3, from a first DAG to production: TaskFlow, scheduling and timetables, retries, sensors, XCom, executors, testing and CI/CD, plus 50 interview questions.
 * [Apache Airflow course on The Work Gym](https://theworkgym.com/airflow/) - Write Dags in a browser workspace (TaskFlow, scheduling, XCom, sensors) with each task checked; first unit free.
+* [Apache Airflow Tutorial: A Daily Sales Report Dag](https://learn.ynteractive.com/content/apache-airflow-daily-sales-report-dag-tutorial) - Free 8-step beginner walkthrough built from the Airflow 3 docs: start Airflow with `airflow standalone`, write a TaskFlow Dag that totals a daily sales CSV by store, trigger it and read the task logs in Grid View.
 
 ## Airflow Summit 2020 videos
 
@@ -85,51 +85,51 @@ fully online event that was co-hosted by 9 Airflow Meetups from all over the wor
 [Airflow Summit 2020 Playlist](https://www.youtube.com/playlist?list=PLGudixcDaxY3RGLSlWoN_cEEXhIT1OPmj)
 or see the individual talks here:*
 
-* [Keynote: Airflow then and now](https://youtu.be/GB2f7ZhRCho) ![Activity badge](https://img.shields.io/youtube/views/GB2f7ZhRCho)
-* [Scheduler as a service - Apache Airflow at EA Digital Platform](https://youtu.be/u00wmcHe8ow) ![Activity badge](https://img.shields.io/youtube/views/u00wmcHe8ow)
-* [Keynote: How large companies use Airflow for ML and ETL pipelines](https://youtu.be/428AiCBMZoQ) ![Activity badge](https://img.shields.io/youtube/views/428AiCBMZoQ)
-* [Data DAGs with lineage for fun and for profit](https://youtu.be/l_vVxOdvujg) ![Activity badge](https://img.shields.io/youtube/views/l_vVxOdvujg)
-* [Airflow on Kubernetes: Containerizing your workflows](https://youtu.be/3VDeKmxHWYA) ![Activity badge](https://img.shields.io/youtube/views/3VDeKmxHWYA)
-* [Data flow with Airflow @ PayPal](https://youtu.be/kAtaj_s4f-w) ![Activity badge](https://img.shields.io/youtube/views/kAtaj_s4f-w)
-* [Democratised data workflows at scale](https://youtu.be/Cd4-YtHYT9M) ![Activity badge](https://img.shields.io/youtube/views/Cd4-YtHYT9M)
-* [Migrating Airflow-based Spark jobs to Kubernetes - the native way](https://youtu.be/i79OsoLUx0k) ![Activity badge](https://img.shields.io/youtube/views/i79OsoLUx0k)
-* [Keynote: Future of Airflow](https://youtu.be/YLsGVFB8Pws) ![Activity badge](https://img.shields.io/youtube/views/YLsGVFB8Pws)
-* [Run Airflow DAGs in a secure way](https://youtu.be/QhnItssm4yU) ![Activity badge](https://img.shields.io/youtube/views/QhnItssm4yU)
-* [Keynote: Making Airflow a sustainable project through D\&I](https://youtu.be/wxn9ta13Gbo) ![Activity badge](https://img.shields.io/youtube/views/wxn9ta13Gbo)
-* [Airflow CI/CD: Github to Cloud Composer (safely)](https://youtu.be/ZgTf523XM0g) ![Activity badge](https://img.shields.io/youtube/views/ZgTf523XM0g)
-* [Advanced Apache Superset for Data Engineers](https://youtu.be/Mhai7sVU244) ![Activity badge](https://img.shields.io/youtube/views/Mhai7sVU244)
-* [Demo: Reducing the lines, a visual DAG editor](https://youtu.be/I4nFCqEnOJc) ![Activity badge](https://img.shields.io/youtube/views/I4nFCqEnOJc)
-* [AIP-31: Airflow functional DAG definition](https://youtu.be/II4Ip81T3qc) ![Activity badge](https://img.shields.io/youtube/views/II4Ip81T3qc)
-* [Autonomous driving with Airflow](https://youtu.be/wEq1FGe6oBY) ![Activity badge](https://img.shields.io/youtube/views/wEq1FGe6oBY)
-* [From cron to Airflow on Kubernetes: A startup story](https://youtu.be/giQReCd7jp8) ![Activity badge](https://img.shields.io/youtube/views/giQReCd7jp8)
-* [Achieving Airflow Observability](https://youtu.be/Hc4pYAUL6Qs) ![Activity badge](https://img.shields.io/youtube/views/Hc4pYAUL6Qs)
-* [Machine Learning with Apache Airflow](https://youtu.be/N_3RQeqySE0) ![Activity badge](https://img.shields.io/youtube/views/N_3RQeqySE0)
-* [Airflow: A beast character in the gaming world](https://youtu.be/BH0ut33zp9A) ![Activity badge](https://img.shields.io/youtube/views/BH0ut33zp9A)
-* [Effective Cross-DAG dependency](https://youtu.be/p66GcO0LbFQ) ![Activity badge](https://img.shields.io/youtube/views/p66GcO0LbFQ)
-* [What open source taught us about business](https://youtu.be/KIEMEYM2PEs) ![Activity badge](https://img.shields.io/youtube/views/KIEMEYM2PEs)
-* [Data engineering hierarchy of needs](https://youtu.be/SvnTyDiZOzQ) ![Activity badge](https://img.shields.io/youtube/views/SvnTyDiZOzQ)
-* [Building reuseable and trustworthy ELT pipelines (A templated approach)](https://youtu.be/R4bp3_VyJ70) ![Activity badge](https://img.shields.io/youtube/views/R4bp3_VyJ70)
-* [Testing Airflow workflows - ensuring your DAGs work before going into production](https://youtu.be/ANJnYbLwLjE) ![Activity badge](https://img.shields.io/youtube/views/ANJnYbLwLjE)
-* [Adding an executor to Airflow: A contributor overflow exception](https://youtu.be/RKEmAshcreE) ![Activity badge](https://img.shields.io/youtube/views/RKEmAshcreE)
-* [Migration to Airflow backport providers](https://youtu.be/1SSlxAcOEso) ![Activity badge](https://img.shields.io/youtube/views/1SSlxAcOEso)
-* [From Zero to Airflow: bootstrapping a ML platform](https://youtu.be/kxyCC1sieok) ![Activity badge](https://img.shields.io/youtube/views/kxyCC1sieok)
-* [Airflow the perfect match in our analytics pipeline](https://youtu.be/vsn5kurjHwQ) ![Activity badge](https://img.shields.io/youtube/views/vsn5kurjHwQ)
-* [Airflow at Société Générale : An open source orchestration solution in a banking environment](https://youtu.be/VApoz5KCguM) ![Activity badge](https://img.shields.io/youtube/views/VApoz5KCguM)
-* [Airflow as the next gen of workflow system at Pinterest](https://youtu.be/KpCPfooD5hM) ![Activity badge](https://img.shields.io/youtube/views/KpCPfooD5hM)
-* [Improving Airflow's user experience](https://youtu.be/fe59rUezJ5Q) ![Activity badge](https://img.shields.io/youtube/views/fe59rUezJ5Q)
-* [Teaching an old DAG new tricks](https://youtu.be/DHDlD-bMM3c) ![Activity badge](https://img.shields.io/youtube/views/DHDlD-bMM3c)
-* [Ask me anything with Airflow members](https://youtu.be/tO6IBDPNAcY) ![Activity badge](https://img.shields.io/youtube/views/tO6IBDPNAcY)
-* [Using Airflow to speed up development of data intensive tools](https://youtu.be/GTQU8ff_O_4) ![Activity badge](https://img.shields.io/youtube/views/GTQU8ff_O_4)
-* [Pipelines on pipelines: Agile CI/CD workflows for Airflow DAGs](https://youtu.be/tY4F9X5l6dg) ![Activity badge](https://img.shields.io/youtube/views/tY4F9X5l6dg)
-* [Production Docker image for Apache Airflow](https://youtu.be/wDr3Y7q2XoI) ![Activity badge](https://img.shields.io/youtube/views/wDr3Y7q2XoI)
-* [Airflow as an elastic ETL tool](https://youtu.be/_50-JFCsp3I) ![Activity badge](https://img.shields.io/youtube/views/_50-JFCsp3I)
-* [How do we reason about the reliability of our data pipeline in Wrike](https://youtu.be/q9pdAlcMo48) ![Activity badge](https://img.shields.io/youtube/views/q9pdAlcMo48)
-* [Achieving Airflow observability with Databand](https://youtu.be/aQIZ_Wdy0lA) ![Activity badge](https://img.shields.io/youtube/views/aQIZ_Wdy0lA)
-* [From S3 to BigQuery - How a first-time Airflow user successfully implemented a data pipeline](https://youtu.be/yuqXWClbEM8) ![Activity badge](https://img.shields.io/youtube/views/yuqXWClbEM8)
+* [Keynote: Airflow then and now](https://youtu.be/GB2f7ZhRCho)
+* [Scheduler as a service - Apache Airflow at EA Digital Platform](https://youtu.be/u00wmcHe8ow)
+* [Keynote: How large companies use Airflow for ML and ETL pipelines](https://youtu.be/428AiCBMZoQ)
+* [Data DAGs with lineage for fun and for profit](https://youtu.be/l_vVxOdvujg)
+* [Airflow on Kubernetes: Containerizing your workflows](https://youtu.be/3VDeKmxHWYA)
+* [Data flow with Airflow @ PayPal](https://youtu.be/kAtaj_s4f-w)
+* [Democratised data workflows at scale](https://youtu.be/Cd4-YtHYT9M)
+* [Migrating Airflow-based Spark jobs to Kubernetes - the native way](https://youtu.be/i79OsoLUx0k)
+* [Keynote: Future of Airflow](https://youtu.be/YLsGVFB8Pws)
+* [Run Airflow DAGs in a secure way](https://youtu.be/QhnItssm4yU)
+* [Keynote: Making Airflow a sustainable project through D\&I](https://youtu.be/wxn9ta13Gbo)
+* [Airflow CI/CD: Github to Cloud Composer (safely)](https://youtu.be/ZgTf523XM0g)
+* [Advanced Apache Superset for Data Engineers](https://youtu.be/Mhai7sVU244)
+* [Demo: Reducing the lines, a visual DAG editor](https://youtu.be/I4nFCqEnOJc)
+* [AIP-31: Airflow functional DAG definition](https://youtu.be/II4Ip81T3qc)
+* [Autonomous driving with Airflow](https://youtu.be/wEq1FGe6oBY)
+* [From cron to Airflow on Kubernetes: A startup story](https://youtu.be/giQReCd7jp8)
+* [Achieving Airflow Observability](https://youtu.be/Hc4pYAUL6Qs)
+* [Machine Learning with Apache Airflow](https://youtu.be/N_3RQeqySE0)
+* [Airflow: A beast character in the gaming world](https://youtu.be/BH0ut33zp9A)
+* [Effective Cross-DAG dependency](https://youtu.be/p66GcO0LbFQ)
+* [What open source taught us about business](https://youtu.be/KIEMEYM2PEs)
+* [Data engineering hierarchy of needs](https://youtu.be/SvnTyDiZOzQ)
+* [Building reuseable and trustworthy ELT pipelines (A templated approach)](https://youtu.be/R4bp3_VyJ70)
+* [Testing Airflow workflows - ensuring your DAGs work before going into production](https://youtu.be/ANJnYbLwLjE)
+* [Adding an executor to Airflow: A contributor overflow exception](https://youtu.be/RKEmAshcreE)
+* [Migration to Airflow backport providers](https://youtu.be/1SSlxAcOEso)
+* [From Zero to Airflow: bootstrapping a ML platform](https://youtu.be/kxyCC1sieok)
+* [Airflow the perfect match in our analytics pipeline](https://youtu.be/vsn5kurjHwQ)
+* [Airflow at Société Générale : An open source orchestration solution in a banking environment](https://youtu.be/VApoz5KCguM)
+* [Airflow as the next gen of workflow system at Pinterest](https://youtu.be/KpCPfooD5hM)
+* [Improving Airflow's user experience](https://youtu.be/fe59rUezJ5Q)
+* [Teaching an old DAG new tricks](https://youtu.be/DHDlD-bMM3c)
+* [Ask me anything with Airflow members](https://youtu.be/tO6IBDPNAcY)
+* [Using Airflow to speed up development of data intensive tools](https://youtu.be/GTQU8ff_O_4)
+* [Pipelines on pipelines: Agile CI/CD workflows for Airflow DAGs](https://youtu.be/tY4F9X5l6dg)
+* [Production Docker image for Apache Airflow](https://youtu.be/wDr3Y7q2XoI)
+* [Airflow as an elastic ETL tool](https://youtu.be/_50-JFCsp3I)
+* [How do we reason about the reliability of our data pipeline in Wrike](https://youtu.be/q9pdAlcMo48)
+* [Achieving Airflow observability with Databand](https://youtu.be/aQIZ_Wdy0lA)
+* [From S3 to BigQuery - How a first-time Airflow user successfully implemented a data pipeline](https://youtu.be/yuqXWClbEM8)
 
 ## Best practices, lessons learned and cool use cases
 
-* [We're all using Airflow wrong and how to fix it](https://medium.com/bluecore-engineering/were-all-using-airflow-wrong-and-how-to-fix-it-a56f14cb0753) - [Jessica Laughlin](https://www.jldlaughlin.com/) of [Bluecore](https://www.bluecore.com/) shares three engineering problems associated with the Airflow design and how to solve them by using the [KubernetesPodOperator](https://github.com/apache/airflow/blob/v1-10-stable/airflow/contrib/operators/kubernetes_pod_operator.py) ⭐ 47,652 | 🐛 1,978 | 🌐 Python | 📅 2026-11-24 in two design patterns.
+* [We're all using Airflow wrong and how to fix it](https://medium.com/bluecore-engineering/were-all-using-airflow-wrong-and-how-to-fix-it-a56f14cb0753) - [Jessica Laughlin](https://www.jldlaughlin.com/) of [Bluecore](https://www.bluecore.com/) shares three engineering problems associated with the Airflow design and how to solve them by using the [KubernetesPodOperator](https://github.com/apache/airflow/blob/v1-10-stable/airflow/contrib/operators/kubernetes_pod_operator.py) ⭐ 47,668 | 🐛 1,935 | 🌐 Python | 📅 2026-11-25 in two design patterns.
 * [Bare minimal Airflow on Kubernetes (Local, EKS, AKS)](https://github.com/stwind/airflow-on-kubernetes) ⭐ 53 | 🐛 1 | 🌐 Python | 📅 2020-03-04 - An article on deploying Airflow on local Kubernetes, AWS EKS and Azure AKS with bare minimal setup.
 * [How to Best Use DuckDB with Apache Airflow](https://medium.com/apache-airflow/how-to-best-use-duckdb-with-apache-airflow-63a079160d5d) - Tips on integrating [DuckDB](https://duckdb.org/) into Airflow jobs.
 * [Airflow Dag Python Package Management](https://www.youtube.com/watch?v=9pykChPp-X4\&t=121s) - Managing python package dependencies across 100+ dags can become painful. It's hard to keep track of which packages are used by which dag, and hard to clean up during DAG removal/upgrade. Learn how KubernetesPodOperator and DockerOperator can fix this.
@@ -137,13 +137,13 @@ or see the individual talks here:*
 * [Testing in Airflow Part 2](https://medium.com/@chandukavar/testing-in-airflow-part-2-integration-tests-and-end-to-end-pipeline-tests-af0555cd1a82) - [Chandu Kavar](https://twitter.com/chandukavar) and [Sarang Shinde](https://www.linkedin.com/in/sarang-shinde-219a4873/) have explained Integration Tests and End-to-End Pipeline Tests.
 * [Getting started with Data Lineage](https://medium.com/dailymotion/getting-started-with-data-lineage-6307b2b429b3) - [Germain Tanguy](https://www.linkedin.com/in/germain-tanguy/) of [Dailymotion](https://www.dailymotion.com/) shares a data lineage prototype integrated to Apache Airflow.
 * [Collaboration between data engineers, data analysts and data scientists](https://medium.com/dailymotion/collaboration-between-data-engineers-data-analysts-and-data-scientists-97c00ab1211f) - [Germain Tanguy](https://www.linkedin.com/in/germain-tanguy/) of [Dailymotion](https://www.dailymotion.com/) shares how to efficiently release in production by collaboration with Apache Airflow.
-* [Using Apache Airflow’s Docker Operator with Amazon’s Container Repository](https://www.lucidchart.com/techblog/2019/03/22/using-apache-airflows-docker-operator-with-amazons-container-repository/) - [Brian Campbell](https://www.linkedin.com/in/bvcampbell3) of [Lucid](https://www.lucidchart.com/) has tips for integrating AWS's [ECR](https://aws.amazon.com/ecr/) service with Airflow's DockerOperator.
+* [Using Apache Airflow’s Docker Operator with Amazon’s Container Repository](https://lucid.co/techblog/2019/03/22/using-apache-airflows-docker-operator-with-amazons-container-repository/) - [Brian Campbell](https://www.linkedin.com/in/bvcampbell3) of [Lucid](https://www.lucidchart.com/) has tips for integrating AWS's [ECR](https://aws.amazon.com/ecr/) service with Airflow's DockerOperator.
 * [Airflow: Lesser Known Tips, Tricks, and Best Practises](https://medium.com/datareply/airflow-lesser-known-tips-tricks-and-best-practises-cf4d4a90f8f) - [Kaxil Naik](https://www.linkedin.com/in/kaxil/) has explained the lesser-known yet very useful tips and best practises on using Airflow.
 * [Testing in Airflow Part 1](https://medium.com/@chandukavar/testing-in-airflow-part-1-dag-validation-tests-dag-definition-tests-and-unit-tests-2aa94970570c) - [Chandu Kavar](https://twitter.com/chandukavar) has explained different categories of tests in Airflow. It includes DAG Validation Tests, DAG Definition Tests, and unit tests.
 * [Lessons learnt while Airflow-ing](https://medium.com/@nehiljain/lessons-learnt-while-airflow-ing-32d3b7fc3fbf) and [Airflow Part 2: Lessons learned](https://medium.com/snaptravel/airflow-part-2-lessons-learned-793fa3c0841e) - [Nehil Jain](https://twitter.com/nehiljain) has written a two-part series that covers the value of workflow schedulers, some best practices and pitfalls he found while working with Airflow.  The [second article](https://medium.com/snaptravel/airflow-part-2-lessons-learned-793fa3c0841e) in particular includes many production tips.
 * [What we learned migrating off Cron to Airflow](https://medium.com/videoamp/what-we-learned-migrating-off-cron-to-airflow-b391841a0da4) - [Katie Macias](https://medium.com/@katiemacias) describes [VideoAmp](https://www.videoamp.com/)'s Data Engineering's journey from cron to Airflow.
 * [Under the Hood: Building AIR at Qubole](https://www.qubole.com/blog/hood-building-air-qubole/) - [Sreenath Kamath](https://www.linkedin.com/in/sreenath-kamath-66a1b970/) and [Rajat Venkatesh](https://twitter.com/vrajat) write about building [Qubole](https://www.qubole.com/)'s [data discovery, insights and recommendations platform](https://www.qubole.com/blog/building-qdsair-infrastructure/) atop Airflow.
-* [Airflow: Why is nothing working? - TL;DR Airflow’s SubDagOperator causes deadlocks](https://medium.com/bluecore-engineering/airflow-why-is-nothing-working-f705eb6b7b04) by [Jessica Laughlin](https://twitter.com/thepressofjess) - Deep dive into troubleshooting a troublesome Airflow DAG with good tips on how to diagnosis problems.
+* [Airflow: Why is nothing working? - TL;DR Airflow’s SubDagOperator causes deadlocks](https://medium.com/bluecore-engineering/airflow-why-is-nothing-working-f705eb6b7b04) by Jessica Laughlin - Deep dive into troubleshooting a troublesome Airflow DAG with good tips on how to diagnosis problems.
 * [Apache Airflow as an External scheduler for distributed systems](https://medium.com/@rako/apache-airflow-as-an-external-scheduler-for-distributed-systems-53b7354d3e48) - [Arunkumar](https://medium.com/@rako) suggests using Airflow as a simple external scheduler for a distributed system.
 * [How Sift Trains Thousands of Models using Apache Airflow](https://engineering.siftscience.com/sift-trains-thousands-models-using-apache-airflow/) - Summary of [Sift Science](https://siftscience.com/)'s deployment strategy for its machine learning model pipelines.
 * [Airflow Lessons from the Data Engineering Front in Chicago](https://medium.com/stanton-ventures-insights/airflow-lessons-from-the-data-engineering-front-in-chicago-9489e6ad5c3d) - [Alison Stanton](https://twitter.com/alison985) provides a list of tips to avoid gotchas in Airflow jobs.
@@ -151,10 +151,10 @@ or see the individual talks here:*
   * [Data Testing with Airflow repository](https://github.com/danielvdende/data-testing-with-airflow) ⭐ 203 | 🐛 1 | 🌐 Python | 📅 2026-06-08
 * [Using Apache Airflow to Create Data Infrastructure in the Public Sector](https://www.astronomer.io/blog/using-apache-airflow-to-create-data-infrastructure/) - Despite an unfortunately very heavy sales pitch tone, this article blog post describes how [ARGO Labs](http://www.argolabs.org/), a non-profit data organization, utilizes Airflow for ETLing in public sector data.
 * [ETL with airflow](https://gtoonstra.github.io/etl-with-airflow/) - ETL core principles and several end-to-end docker-based examples including Kimball, Data Vault on Hive and some simpler examples.
-* [Productionizing ML with workflows at Twitter](https://blog.twitter.com/engineering/en_us/topics/insights/2018/ml-workflows.html) - In depth post on why and how Twitter use Airflow for ML workflows including including custom operators and a custom UI embedded in in the Airflow web interface.
+* [Productionizing ML with workflows at Twitter](https://blog.x.com/engineering/en_us/topics/insights/2018/ml-workflows.html) - In depth post on why and how Twitter use Airflow for ML workflows including including custom operators and a custom UI embedded in in the Airflow web interface.
 * [Upgrading Airflow with Zero Downtime](https://medium.com/flatiron-engineering/upgrading-airflow-with-zero-downtime-8df303760c96) - A detailed article on how to deploy Airflow with zero downtime.
 * [Breaking up the Airflow DAG monorepo](https://tech.scribd.com/blog/2020/breaking-up-the-dag-repo.html) - This post describes how to support managing Airflow DAGs from multiple git repos through S3.
-* [Improving Performance of Apache Airflow Scheduler](https://medium.com/databand-ai/improving-performance-of-apache-airflow-scheduler-507f4cb6462a) - A story of an adventure that allowed [Databand](https://databand.ai/) to speed up DAG parsing time 10 times
+* [Improving Performance of Apache Airflow Scheduler](https://medium.com/databand-ai/improving-performance-of-apache-airflow-scheduler-507f4cb6462a) - A story of an adventure that allowed Databand to speed up DAG parsing time 10 times
 * [How SSENSE is using Apache Airflow to do Data Lineage on AWS](https://medium.com/ssense-tech/principled-data-engineering-part-ii-data-governance-30297abb2446) - Exploring the fundamental themes of architecting and governing a data lake on AWS using Apache Arflow.
 * [Complex tasks orchestration at Hurb with Apache Airflow](https://medium.com/hurb-engineering/complex-tasks-orchestration-at-hurb-with-apache-airflow-dcb423c4dee6) - This post shows how Hurb uses Apache Airflow to orchestrate complex tasks and how it leverages DAG dynamic creation to improve development speed.
 * [Automating data export from CrateDB to S3 with Apache Airflow](https://community.crate.io/t/cratedb-and-apache-airflow-part-one/901) A tutorial on how to automate recurrent queries in [CrateDB](https://crate.io/) with Apache Airflow, such as periodic data export to Amazon S3.
@@ -173,31 +173,31 @@ or see the individual talks here:*
 
 ## Slide deck presentations and online videos
 
-* 2020-Feb: [Apache Airflow @ Umuzi.org](https://www.youtube.com/watch?IAmWKZDmvek) ![Activity badge](https://img.shields.io/youtube/views/IAmWKZDmvek) - [Sheena O'Connell](https://twitter.com/sheena_oconnell) discusses how South Africa-based tech bootcamp [Umuzi](https://www.umuzi.org/) uses Airflow.
+* 2020-Feb: [Apache Airflow @ Umuzi.org](https://www.youtube.com/watch?IAmWKZDmvek) - [Sheena O'Connell](https://twitter.com/sheena_oconnell) discusses how South Africa-based tech bootcamp [Umuzi](https://www.umuzi.org/) uses Airflow.
 * [Apache Airflow YouTube tutorials](https://www.youtube.com/playlist?list=PL79i7SgJCJ9hu5GqcA091h6zuewmsvSyy) - [Marc Lamberti](https://twitter.com/marclambertiml) has created a series of YouTube tutorials covering many aspects of Airflow concepts, configuration and deployment.
-* [Advanced Data Engineering Patterns with Apache Airflow](https://www.youtube.com/watch?23_1WlxGGM4) ![Activity badge](https://img.shields.io/youtube/views/23_1WlxGGM4) - Video of [Maxime Beauchemin](https://medium.com/@maximebeauchemin)'s talk that briefly introduces Airflow and then goes into more advanced use cases, including self-servive SQL queries, building A/B testing metrics frameworks and machine learning feature extraction all via Airflow.  The slides are available separately [here](https://prezi.com/p/adxlaplcwzho/advanced-data-engineering-patterns-with-apache-airflow/).
-* [Building Better Data Pipelines using Apache Airflow](https://www.slideshare.net/r39132/building-better-data-pipelines-using-apache-airflow-94060954) - Slides from [Sid Anand](https://twitter.com/r39132)'s talk at QCon 18 with a thorough overview of Airflow and its architecture.
+* [Advanced Data Engineering Patterns with Apache Airflow](https://www.youtube.com/watch?23_1WlxGGM4) - Video of [Maxime Beauchemin](https://medium.com/@maximebeauchemin)'s talk that briefly introduces Airflow and then goes into more advanced use cases, including self-servive SQL queries, building A/B testing metrics frameworks and machine learning feature extraction all via Airflow.  The slides are available separately [here](https://prezi.com/p/adxlaplcwzho/advanced-data-engineering-patterns-with-apache-airflow/).
+* [Building Better Data Pipelines using Apache Airflow](https://www.slideshare.net/r39132/building-better-data-pipelines-using-apache-airflow-94060954) - Slides from Sid Anand's talk at QCon 18 with a thorough overview of Airflow and its architecture.
 * [Apache Airflow in the Cloud: Programmatically orchestrating workloads with Python](https://www.slideshare.net/kaxil/apache-airflow-in-the-cloud-programmatically-orchestrating-workloads-with-python-pydata-london-2018-95391267) - Slides from [Kaxil Naik](https://twitter.com/kaxil)'s & [Satyasheel](https://twitter.com/ss6012) talk at PyData London 18 introducing the basics of Airflow and how to orchestrate workloads on Google Cloud Platform (GCP).
-* [Data Pipeline Management](https://www.youtube.com/watch?mjn1LAZ_Y38) ![Activity badge](https://img.shields.io/youtube/views/mjn1LAZ_Y38) - [Ben Goldberg](https://www.linkedin.com/in/benjamin-goldberg-50247169/) walks the Chicago Kubernetes Meetup through how [SpotHero](https://spothero.com/) uses Airflow. Additionally, Ben has a very [complete slidedeck](https://docs.google.com/presentation/d/1hc12cFs5TmEajLwYNASLwz_C17Q5tyd__6oXzI16A9A/edit#slide=id.g320d39a12c_0_1017) of how Airflow plays within Kubernetes.
+* [Data Pipeline Management](https://www.youtube.com/watch?mjn1LAZ_Y38) - [Ben Goldberg](https://www.linkedin.com/in/benjamin-goldberg-50247169/) walks the Chicago Kubernetes Meetup through how [SpotHero](https://spothero.com/) uses Airflow. Additionally, Ben has a very [complete slidedeck](https://docs.google.com/presentation/d/1hc12cFs5TmEajLwYNASLwz_C17Q5tyd__6oXzI16A9A/edit#slide=id.g320d39a12c_0_1017) of how Airflow plays within Kubernetes.
 * [How I learned to time travel, or, data pipelining and scheduling with Airflow](https://www.slideshare.net/LauraLorenz4/how-i-learned-to-time-travel-or-data-pipelining-and-scheduling-with-airflow) - Comprehensive deck by [Laura Lorenz](https://twitter.com/lalorenz6) for why Airflow is necessary and how [Industry Dive](https://www.industrydive.com/) uses it.
-* [Introduction to Apache Airflow - Data Day Seattle 2016](https://www.slideshare.net/r39132/introduction-to-apache-airflow-data-day-seattle-2016) - [Sid Anand](https://twitter.com/r39132) gives a thorough introduction to Airflow and how it was used at [Agari](https://www.agari.com/).
+* [Introduction to Apache Airflow - Data Day Seattle 2016](https://www.slideshare.net/r39132/introduction-to-apache-airflow-data-day-seattle-2016) - Sid Anand gives a thorough introduction to Airflow and how it was used at Agari.
 * [Operating Data Pipeline With Airflow - Airflow Meetup April-2018](https://speakerdeck.com/vananth22/operating-data-pipeline-with-airflow-at-slack) - [Ananth Packkildurai](https://twitter.com/ananthdurai) talks about scaling airflow Local Executor and best practices to operate data pipeline at [Slack](https://slack.com/).
-* [Elegant data pipelining with Apache Airflow](https://www.youtube.com/watch?v=neuh_2_zrt8) - Talks from [Bolke de Bruin](https://twitter.com/bolke2028) and [Fokko Driesprong](https://twitter.com/fokkodriesprong) at PyData Amsterdam 2018 about methodologies that provide clarity in ETL using Airflow.
+* [Elegant data pipelining with Apache Airflow](https://www.youtube.com/watch?v=neuh_2_zrt8) - Talks from [Bolke de Bruin](https://twitter.com/bolke2028) and Fokko Driesprong at PyData Amsterdam 2018 about methodologies that provide clarity in ETL using Airflow.
 * [Airflow @ Lyft](https://www.slideshare.net/taofung/airflow-at-lyft) - Talks from [Tao Feng](https://github.com/feng-tao) at SF big data analytics meetup about how Lyft monitors running Airflow in production.
-* [Manageable data pipelines with Airflow and Kubernetes](https://youtu.be/bcF24AdG1o4) ![Activity badge](https://img.shields.io/youtube/views/bcF24AdG1o4)- Talk by [Jarek Potiuk](https://github.com/potiuk) and [Szymon Przedwojski](https://github.com/sprzedwojski). A introductory talk on Airflow from GDG Warsaw DevFest 2018.
-* [Migrating Apache Oozie Workflows to Apache Airflow](https://www.youtube.com/watch?8L1F-6t_6Ao) ![Activity badge](https://img.shields.io/youtube/views/8L1F-6t_6Ao) - Talk from [Szymon Przedwojski](https://github.com/sprzedwojski) from Airflow Bay Area Meetup June 2018 about Oozie-to-Airflow migration tool.
-* [Building data lakes with Apache Airflow](https://www.youtube.com/watch?MM8tfTrcnfk) ![Activity badge](https://img.shields.io/youtube/views/MM8tfTrcnfk) - Talk by [Bas Harenslak](https://github.com/BasPH) and [Julian de Ruiter](https://github.com/jrderuiter) at the Amsterdam Apache Airflow September 2018 meetup about building data lakes with Apache Airflow as the spider in the web managing all data flows.
-* [First Warsaw Apache Airflow Meetup](https://youtu.be/Nr4Pp1SNXeU) ![Activity badge](https://img.shields.io/youtube/views/Nr4Pp1SNXeU) - Live streamed recording from the first Apache Airflow Meetup in Warsaw in October 2019.
-* [What's coming in Apache Airflow 2.0](https://youtu.be/znowFIBK1lk) ![Activity badge](https://img.shields.io/youtube/views/znowFIBK1lk) - joint talk by [Ash Berlin-Taylor](https://github.com/ashb), [Kaxil Naik](https://github.com/kaxil), [Jarek Potiuk](https://github.com/potiuk), [Kamil Breguła](https://github.com/mik-laj), [Daniel Imbermann](https://github.com/dimberman), and [Tomek Urbaszek](https://github.com/turbaszek) at the [Online NYC Meetup, 13th of May 2020](https://www.meetup.com/NYC-Apache-Airflow-Meetup/events/270483933/)
-* [Airflow Breeze - Development and Test Environment for Apache Airflow](https://youtu.be/4MCTXq-oF68) ![Activity badge](https://img.shields.io/youtube/views/4MCTXq-oF68) - Screencast showing how to use Breeze environment by [Jarek Potiuk](https://github.com/potiuk).
+* [Manageable data pipelines with Airflow and Kubernetes](https://youtu.be/bcF24AdG1o4)- Talk by [Jarek Potiuk](https://github.com/potiuk) and [Szymon Przedwojski](https://github.com/sprzedwojski). A introductory talk on Airflow from GDG Warsaw DevFest 2018.
+* [Migrating Apache Oozie Workflows to Apache Airflow](https://www.youtube.com/watch?8L1F-6t_6Ao) - Talk from [Szymon Przedwojski](https://github.com/sprzedwojski) from Airflow Bay Area Meetup June 2018 about Oozie-to-Airflow migration tool.
+* [Building data lakes with Apache Airflow](https://www.youtube.com/watch?MM8tfTrcnfk) - Talk by [Bas Harenslak](https://github.com/BasPH) and [Julian de Ruiter](https://github.com/jrderuiter) at the Amsterdam Apache Airflow September 2018 meetup about building data lakes with Apache Airflow as the spider in the web managing all data flows.
+* [First Warsaw Apache Airflow Meetup](https://youtu.be/Nr4Pp1SNXeU) - Live streamed recording from the first Apache Airflow Meetup in Warsaw in October 2019.
+* [What's coming in Apache Airflow 2.0](https://youtu.be/znowFIBK1lk) - joint talk by [Ash Berlin-Taylor](https://github.com/ashb), [Kaxil Naik](https://github.com/kaxil), [Jarek Potiuk](https://github.com/potiuk), [Kamil Breguła](https://github.com/mik-laj), [Daniel Imbermann](https://github.com/dimberman), and [Tomek Urbaszek](https://github.com/turbaszek) at the [Online NYC Meetup, 13th of May 2020](https://www.meetup.com/NYC-Apache-Airflow-Meetup/events/270483933/)
+* [Airflow Breeze - Development and Test Environment for Apache Airflow](https://youtu.be/4MCTXq-oF68) - Screencast showing how to use Breeze environment by [Jarek Potiuk](https://github.com/potiuk).
 
 ## Libraries, Hooks, Utilities
 
-* [dlt](https://github.com/dlt-hub/dlt) ⭐ 6,133 | 🐛 508 | 🌐 Python | 📅 2026-11-24 - [data load tool](https://dlthub.com/) is an open-source Python library for building data pipelines with schema inference and incremental loading. Includes an [Airflow helper](https://dlthub.com/docs/walkthroughs/deploy-a-pipeline/deploy-with-airflow-composer) to convert dlt pipelines into Airflow DAGs/TaskGroups.
-* [ingestr](https://github.com/bruin-data/ingestr) ⭐ 4,053 | 🐛 36 | 🌐 Go | 📅 2026-11-24 - CLI tool to copy data between any source and destination with a single command. Use with BashOperator to load data from 50+ sources (Postgres, MongoDB, Salesforce, etc.) into your warehouse.
-* [Bruin](https://github.com/bruin-data/bruin) ⭐ 1,817 | 🐛 84 | 🌐 Go | 📅 2026-11-24 - Data ingestion and transformation layer with SQL and Python support. Ingests from 50+ sources (like Airbyte/Fivetran) and transforms (like dbt). Can be triggered from Airflow DAGs or run standalone. Includes built-in data quality checks.
+* [dlt](https://github.com/dlt-hub/dlt) ⭐ 6,136 | 🐛 513 | 🌐 Python | 📅 2026-11-24 - [data load tool](https://dlthub.com/) is an open-source Python library for building data pipelines with schema inference and incremental loading. Includes an [Airflow helper](https://dlthub.com/docs/walkthroughs/deploy-a-pipeline/deploy-with-airflow-composer) to convert dlt pipelines into Airflow DAGs/TaskGroups.
+* [ingestr](https://github.com/bruin-data/ingestr) ⭐ 4,054 | 🐛 34 | 🌐 Go | 📅 2026-11-25 - CLI tool to copy data between any source and destination with a single command. Use with BashOperator to load data from 50+ sources (Postgres, MongoDB, Salesforce, etc.) into your warehouse.
+* [Bruin](https://github.com/bruin-data/bruin) ⭐ 1,818 | 🐛 80 | 🌐 Go | 📅 2026-11-25 - Data ingestion and transformation layer with SQL and Python support. Ingests from 50+ sources (like Airbyte/Fivetran) and transforms (like dbt). Can be triggered from Airflow DAGs or run standalone. Includes built-in data quality checks.
 * [airflow-maintenance-dags](https://github.com/teamclairvoyant/airflow-maintenance-dags) ⭐ 1,771 | 🐛 30 | 🌐 Python | 📅 2024-06-18 - Clairvoyant's repo of Airflow DAGs that operate on Airflow itself, clearing out various bits of the backing metadata store.
-* [dag-factory](https://github.com/ajbosco/dag-factory) ⭐ 1,468 | 🐛 114 | 🌐 Python | 📅 2026-11-20 - A library for dynamically generating Apache Airflow DAGs from YAML configuration files.
+* [dag-factory](https://github.com/ajbosco/dag-factory) ⭐ 1,468 | 🐛 116 | 🌐 Python | 📅 2026-11-25 - A library for dynamically generating Apache Airflow DAGs from YAML configuration files.
 * [airflow-code-editor](https://github.com/andreax79/airflow-code-editor) ⭐ 471 | 🐛 1 | 🌐 Python | 📅 2026-10-25 - A plugin for Apache Airflow that allows you to edit DAGs in browser.
 * [gusty](https://github.com/chriscardillo/gusty) ⭐ 287 | 🐛 1 | 🌐 Python | 📅 2026-10-21 - Create a DAG using any number of YAML, Python, Jupyter Notebook, or R Markdown files that represent individual tasks in the DAG. gusty also configures dependencies, DAGs, and TaskGroups, features support for your local operators, and more. A fully containerized demo is available [here](https://github.com/chriscardillo/gusty-demo) ⭐ 39 | 🐛 1 | 🌐 Python | 📅 2024-06-17.
 * [Domino](https://github.com/Tauffer-Consulting/domino) ⭐ 212 | 🐛 28 | 🌐 Python | 📅 2026-03-06 - Domino is an open source Graphical User Interface platform for creating data and Machine Learning workflows (DAGs) with no-code, visually intuitive drag-and-drop actions. It is also a standard for publishing and sharing your Python code so it can be automatically used by anyone, directly in the GUI.
@@ -210,6 +210,7 @@ or see the individual talks here:*
 * [fairflow](https://github.com/michaelosthege/fairflow) ⚠️ Archived - Library to abstract away Airflow's Operators with functional pieces that transform the data from one operator to another.
 * [airflow-config](https://github.com/airflow-laminar/airflow-config) ⭐ 17 | 🐛 3 | 🌐 Python | 📅 2026-11-17 - [Pydantic](https://pydantic.dev) / [Hydra](https://hydra.cc) based configuration system for DAG and Task arguments
 * [airflow-supervisor](https://github.com/airflow-laminar/airflow-supervisor) ⭐ 17 | 🐛 2 | 🌐 Python | 📅 2026-11-18 - Easy-to-use [supervisor](http://supervisord.org) integration for long running or "always on" DAGs
+* [Dagwick](https://github.com/dagwick/dagwick) ⭐ 15 | 🐛 7 | 🌐 Python | 📅 2026-11-24 - Airflow 3 plugin and CLI that grades each DAG from A to F on reliability, scheduling, ownership, performance, observability and security checks, with a suggested fix for every failed check.
 * [AirFly](https://github.com/ryanchao2012/airfly) ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2025-02-10 - Auto generate Airflow's dag.py on the fly.
 * [AirflowK8sDebugger](https://github.com/Javier162380/AirflowKuberentesDebugger) ⭐ 10 | 🐛 1 | 🌐 Python | 📅 2021-05-06 - A library for generate k8s pod yaml templates from an Airflow dag using the KubernetesPodOperator.
 * [Airflow Vars](https://github.com/omerzamir/airflow-vars) ⭐ 10 | 🐛 1 | 🌐 Go | 📅 2026-11-13 - A CLI for variables management, created for CD-Pipelines in order to allow robust and safe variables management.
@@ -220,11 +221,11 @@ or see the individual talks here:*
 * [Airflow Ditto](https://github.com/angadsingh/airflow-ditto) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2020-07-10 - An extensible framework to do transformations to an Airflow DAG and convert it into another DAG which is flow-isomorphic with the original DAG, to be able to run it on different environments (e.g. on different clouds, or even different container frameworks - Apache Spark on YARN vs Kubernetes). Comes with out-of-the-box support for EMR-to-HDInsight-DAG transforms.
 * [DEAfrica Airflow](https://github.com/digitalearthafrica/deafrica-airflow) ⭐ 4 | 🐛 5 | 🌐 Python | 📅 2021-09-20 - Airflow libraries used by [Digital Earth Africa](https://digitalearthafrica.org/), an humanitarian effort to utilize satellite imagery of Africa.
 * [Airflow Logs Cleanup](https://github.com/ysskrishna/airflow-logs-cleanup) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-11-17 - Script and Airflow DAG that delete old log files and empty directories to free disk space.
-* [SWFactory](https://github.com/zozo123/ariflow-swfactory) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-11-05 - Software factory that uses Airflow as the lifecycle scheduler for coding agents, turning GitHub issues into tested, reviewed pull requests with human approval gates and retained evidence.
+* [SWFactory](https://github.com/zozo123/ariflow-swfactory) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-11-25 - Software factory that uses Airflow as the lifecycle scheduler for coding agents, turning GitHub issues into tested, reviewed pull requests with human approval gates and retained evidence.
 * [airflow-provider-shopsavvy](https://github.com/shopsavvy/airflow-provider-shopsavvy) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-09-28 - Apache Airflow provider package for [ShopSavvy](https://shopsavvy.com/) with operators, hooks, and sensors for product price data ETL pipelines.
 * [airflow-provider-unirate](https://github.com/UniRate-API/airflow-provider-unirate) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-07-08 - Apache Airflow provider package for [UniRateAPI](https://unirateapi.com/) with hooks, operators, and a rate-change sensor for real-time and historical currency exchange rates.
 * [Airflow DVC plugin](https://github.com/covid-genomics/airflow-dvc) ⚠️ Archived - Plugin for open-source version-control system for data science and Machine Learning pipelines - [DVC](https://dvc.org/).
-* [airflow-provider-darkmoon](https://github.com/ASCIT31/airflow-provider-darkmoon) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-11-19 - Apache Airflow provider package for [Darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 1,301 | 🐛 6 | 🌐 Python | 📅 2026-11-22, an autonomous AI penetration testing platform, with a hook, operators and a sensor to start a pentest campaign from a DAG, wait for it and gate the pipeline on finding severity; requires a self-hosted Darkmoon Pro dashboard API.
+* [airflow-provider-darkmoon](https://github.com/ASCIT31/airflow-provider-darkmoon) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-11-19 - Apache Airflow provider package for [Darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 1,307 | 🐛 6 | 🌐 Python | 📅 2026-11-22, an autonomous AI penetration testing platform, with a hook, operators and a sensor to start a pentest campaign from a DAG, wait for it and gate the pipeline on finding severity; requires a self-hosted Darkmoon Pro dashboard API.
 * [Airflow Provider Registry](https://airflow.apache.org/registry/) - Official registry of Airflow provider packages, including operators, hooks, sensors, and more.
 * [test\_dags](https://gist.github.com/criccomini/2862667822af7fae8b55682faef029a7) - a more complete solution for DAG integrity tests ([first Circle of Data’s Inferno are the first](https://medium.com/@ingwbaa/datas-inferno-7-circles-of-data-testing-hell-with-airflow-cef4adff58d8).
 * [Meltano](https://www.meltano.com) - Open source, self-hosted, CLI-first, debuggable, and extensible ELT tool that embraces [Singer](https://www.singer.io) for extraction and loading, leverages [dbt](https://www.getdbt.com) for transformation, and [integrates with Airflow for orchestration](https://meltano.com/#orchestration).
@@ -282,4 +283,4 @@ To the extent possible under law, [Jakob Homan](https://github.com/jghoman) has 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
